@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasProperty("location_type")
+properties:
+  publish:
+    displayName: Publish
+  file.name:
+    displayName: Localización
+  location_type:
+    displayName: Tipo
+  parent_location:
+    displayName: Ubicación superior
+  resumen:
+    displayName: Resumen
+views:
+  - type: table
+    name: Todas las localizaciones
+    order:
+      - file.name
+      - location_type
+      - parent_location
+      - resumen
+    sort:
+      - property: parent_location
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Por tipo
+    groupBy:
+      property: location_type
+      direction: ASC
+    order:
+      - file.name
+      - parent_location
+      - resumen
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Publicados
+    filters:
+      and:
+        - publish == true
+    order:
+      - file.name
+      - location_type
+      - parent_location
+      - resumen
+    sort:
+      - property: file.name
+        direction: ASC

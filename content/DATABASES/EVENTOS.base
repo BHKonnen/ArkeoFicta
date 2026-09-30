@@ -1,0 +1,60 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasProperty("event_type")
+formulas:
+  chronological_order: if(calendar_era && calendar_year, (if(calendar_era == "mitica", 0, if(calendar_era == "primera-era", 1, if(calendar_era == "segunda-era", 2, 3))) * 1000000000) + (calendar_year * 1000) + (if(calendar_month, (calendar_month - 1) * 40, 0)) + if(calendar_day, calendar_day, 0), 9999999999)
+properties:
+  publish:
+    displayName: Publish
+  file.name:
+    displayName: Evento
+  event_type:
+    displayName: Tipo
+  calendar_era:
+    displayName: Era
+  calendar_year:
+    displayName: Año
+  calendar_month:
+    displayName: Mes
+  calendar_day:
+    displayName: Día
+  formula.chronological_order:
+    displayName: Orden cronológico
+  location:
+    displayName: Localización
+  related_characters:
+    displayName: Personajes relacionados
+  related_groups:
+    displayName: Grupos relacionados
+  related_entries:
+    displayName: Entradas relacionadas
+views:
+  - type: table
+    name: Cronología
+    order:
+      - file.name
+      - calendar_era
+      - calendar_year
+      - calendar_month
+      - calendar_day
+      - event_type
+      - location
+    sort:
+      - property: formula.chronological_order
+        direction: ASC
+  - type: table
+    name: Por era
+    groupBy:
+      property: calendar_era
+      direction: ASC
+    order:
+      - file.name
+      - calendar_year
+      - calendar_month
+      - calendar_day
+      - event_type
+      - location
+    sort:
+      - property: formula.chronological_order
+        direction: ASC
