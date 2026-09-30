@@ -1,0 +1,69 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.hasProperty("character_type")
+properties:
+  publish:
+    displayName: Publish
+  file.name:
+    displayName: Personaje
+  character_type:
+    displayName: Tipo
+  estado_vital:
+    displayName: Estado vital
+  campana:
+    displayName: Campaña
+  related_characters:
+    displayName: Personajes relacionados
+  related_groups:
+    displayName: Grupos relacionados
+  related_events:
+    displayName: Eventos relacionados
+  related_entries:
+    displayName: Entradas relacionadas
+views:
+  - type: table
+    name: Todos los personajes
+    order:
+      - file.name
+      - character_type
+      - estado_vital
+      - campana
+      - related_characters
+      - related_groups
+      - related_events
+      - related_entries
+    sort:
+      - property: estado_vital
+        direction: DESC
+      - property: character_type
+        direction: DESC
+  - type: table
+    name: Por tipo
+    groupBy:
+      property: character_type
+      direction: ASC
+    order:
+      - file.name
+      - estado_vital
+      - campana
+      - related_characters
+      - related_groups
+      - related_events
+      - related_entries
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Publicados
+    filters:
+      and:
+        - publish == true
+    order:
+      - file.name
+      - character_type
+      - estado_vital
+      - campana
+    sort:
+      - property: file.name
+        direction: ASC
