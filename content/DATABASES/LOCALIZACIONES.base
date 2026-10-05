@@ -11,6 +11,8 @@ properties:
     displayName: Tipo
   parent_location:
     displayName: Ubicación superior
+  campana:
+    displayName: Campaña
   resumen:
     displayName: Resumen
 views:
@@ -20,6 +22,7 @@ views:
       - file.name
       - location_type
       - parent_location
+      - campana
       - resumen
     sort:
       - property: parent_location
@@ -34,6 +37,7 @@ views:
     order:
       - file.name
       - parent_location
+      - campana
       - resumen
     sort:
       - property: file.name
@@ -47,6 +51,21 @@ views:
       - file.name
       - location_type
       - parent_location
+      - campana
+      - resumen
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Segunda campaña
+    filters:
+      and:
+        - campana.contains("segunda-campaña")
+    order:
+      - file.name
+      - location_type
+      - parent_location
+      - campana
       - resumen
     sort:
       - property: file.name

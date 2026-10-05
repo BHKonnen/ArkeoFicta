@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-09-21T21:31:26.722Z
-modified: 2026-09-30T20:52:31.292Z
-published: 2026-09-30T20:52:31.292Z
-resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
+modified: 2026-10-04T23:52:17.278Z
+published: 2026-10-04T23:52:17.278Z
+resumen: Grupo de violentos piratas del mar del albedrío
 topic: sociedad
 multi_tag:
   - organizaciones
