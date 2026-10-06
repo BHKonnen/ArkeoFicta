@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.769Z
-modified: 2026-10-01T12:46:01.319Z
-published: 2026-10-01T12:46:01.319Z
+modified: 2026-10-06T15:57:28.856Z
+published: 2026-10-06T15:57:28.856Z
 resumen: Gran mar de [[Primordia]] cuyas aguas desafían la gravedad.
 location_type: mar
 parent_location: "[[Primordia]]"
@@ -112,7 +112,7 @@ Ciudades del Mar Extraño: [[Iserb]], [[Wen-Waipo]], [[Wen-Wapar]], [[Puerto Esm
 
 El Mar del Albedrío carece de una autoridad dominante. Sus costas y aguas están repartidas entre repúblicas, ciudades-estado, instituciones religiosas, compañías y territorios donde el poder pertenece a quienes pueden ejercerlo. Las fronteras son cambiantes y, en muchos lugares, la autoridad oficial dista de coincidir con quien realmente controla el territorio.
 
-### [[Compañía del Canal Occidental|CCO]] "La Fuente"
+### [[Compañía Del Canal Occidental (C.C.O.)|CCO]] "La Fuente"
 
 La compañía mercantil más potente de Primordia,  controla el 100% del [[El Acueducto]] y varios enclaves estratégicos de entrada . Su particularidad es que gran parte de su estructura está dominada por **constructos**. Sus dos principales asentamientos son las ciudades de  [[Brontante Prima]] y [[SORGENTE PRIMA]]
 
