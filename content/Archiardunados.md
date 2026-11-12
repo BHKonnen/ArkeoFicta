@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Archiardunado
 created: 2026-10-06T22:44:38.976Z
-modified: 2026-10-06T22:50:38.826Z
-published: 2026-10-06T22:50:38.826Z
+modified: 2026-11-12T11:37:32.640Z
+published: 2026-11-12T11:37:32.640Z
 resumen: Territorios autónomos vinculados a Iserb por dependencia política, religiosa y económica.
 topic: conocimientos
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Archiardunados
@@ -35,7 +34,7 @@ Esta capacidad no significa que el Dodecadrón administre normalmente los Archia
 
 Actuales Archiardunados
 
-## Mäp
+## El Archiardunados Mäp
 
 **[[Nueva República de Mäp]]** es uno de los Archiardunados más importantes de Iserb y también uno de los ejemplos más claros de las tensiones que puede producir el sistema.
 
@@ -49,27 +48,15 @@ Como consecuencia, el Dodecadrón y las autoridades correspondientes revocaron s
 
 El caso de Mäp se convirtió en un precedente importante para la relación entre Iserb y sus Archiardunados.
 
-## Las islas del Mar del Albedrío
+## El Archiardunados de Fan-Ankohl
 
 Una parte importante de los territorios vinculados a Iserb son comunidades insulares.
 
-En muchos casos, su relación con Iserb no comenzó mediante una conquista directa. Las comunidades se acercaron voluntariamente a la ciudad y al [[Templos Magistratus]] buscando protección frente a los piratas.
+En muchos casos, su relación con Iserb no comenzó mediante una conquista directa. Las comunidades se acercaron voluntariamente a la ciudad y al [[Templos Magistratus]] buscando protección frente a los piratas, particularmente en los últimos 50 años . La incorporación a la esfera de Iserb permitió mantener las estructuras locales mientras se obtenía protección exterior.
 
-La incorporación a la esfera de Iserb permitió mantener las estructuras locales mientras se obtenía protección exterior.
-
-Por ello, la condición de Archiardunado no implica necesariamente que una comunidad se considere colonizada.
+El más significativo de estos archiardunados Insulares es el [[El Archiardunado de Fan-Ankohl]]
 
 En el [[El Mar del Albedrío|Mar del Albedrío]] los cambios de poder, las migraciones y las alianzas territoriales son habituales, y el concepto de nación todavía no posee el significado que tendría en otros contextos.
-
-## Autonomía y conflicto
-
-La principal tensión del sistema reside en el equilibrio entre la autonomía local y la autoridad de Iserb.
-
-Los Archiardunados pueden conservar sus propias tradiciones, instituciones y formas de gobierno, pero deben aceptar que Iserb mantiene competencias sobre cuestiones consideradas fundamentales.
-
-Las comunidades religiosas y culturales alejadas de Iserb pueden mantener además prácticas que no coincidan completamente con la doctrina oficial del [[Templo Unificado del Camino de Iserb]].
-
-Mientras estas diferencias no amenacen el orden establecido, Iserb tiende a tolerarlas.
 
 > [!info] Véase también
 >

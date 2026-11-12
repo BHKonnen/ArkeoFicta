@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:37.565Z
-modified: 2026-09-30T20:52:31.104Z
-published: 2026-09-30T20:52:31.104Z
+modified: 2026-11-12T11:37:33.248Z
+published: 2026-11-12T11:37:33.248Z
 resumen: Diosa de la intimidad, el alma, las emociones y los juramentos privados.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Psijem, Guarda de las Promesas

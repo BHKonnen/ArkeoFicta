@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Marabunta, la Partera Infinita
 created: 2026-09-21T19:16:50.150Z
-modified: 2026-09-30T20:52:31.086Z
-published: 2026-09-30T20:52:31.086Z
+modified: 2026-11-12T11:37:33.210Z
+published: 2026-11-12T11:37:33.210Z
 resumen: Acontecimiento primordial y divinidad del nacimiento, el ciclo vital y la continuidad de toda criatura.
 topic: conocimientos
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Marabunta, la Partera Infinita

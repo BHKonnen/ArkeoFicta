@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Officium, Guarda de los Contratos
 created: 2026-09-21T19:17:38.157Z
-modified: 2026-09-30T20:52:31.093Z
-published: 2026-09-30T20:52:31.093Z
+modified: 2026-11-12T11:37:33.233Z
+published: 2026-11-12T11:37:33.233Z
 resumen: Dios de la esfera pública, la razón y los acuerdos declarados ante testigos.
 topic: conocimientos
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Offijium, Guarda de los Contratos

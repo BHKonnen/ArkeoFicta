@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:38.798Z
-modified: 2026-09-30T20:52:31.091Z
-published: 2026-09-30T20:52:31.091Z
+modified: 2026-11-12T11:37:33.225Z
+published: 2026-11-12T11:37:33.225Z
 resumen: Doctrina divina de la escritura, los archivos y la preservación del conocimiento.
 topic: conocimientos
 multi_tag:
@@ -11,7 +11,6 @@ multi_tag:
   - libros-y-documentos
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Noonbu, el Archivista

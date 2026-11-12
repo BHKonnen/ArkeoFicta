@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:39.961Z
-modified: 2026-09-30T20:52:31.080Z
-published: 2026-09-30T20:52:31.080Z
+modified: 2026-11-12T11:37:33.197Z
+published: 2026-11-12T11:37:33.197Z
 resumen: Dios triple del destino, los sueños y la muerte que guía el hilo de la vida.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Fatum Trinitae, guías del más allá

@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T21:31:10.501Z
-modified: 2026-10-29T11:39:23.908Z
-published: 2026-10-29T11:39:23.908Z
+modified: 2026-11-12T11:37:33.671Z
+published: 2026-11-12T11:37:33.671Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
   - organizaciones
 campana:
   - albedrio
-acceso: privado
 group_type: other
 related_characters:
   - "[[Princesa Agripina Jade de la Cruz]]"

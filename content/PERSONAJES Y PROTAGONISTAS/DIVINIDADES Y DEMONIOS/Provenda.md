@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:21:16.515Z
-modified: 2026-09-30T20:52:31.102Z
-published: 2026-09-30T20:52:31.102Z
+modified: 2026-11-12T11:37:33.243Z
+published: 2026-11-12T11:37:33.243Z
 resumen: Cuarta hija de Marabunta, asociada al crecimiento, la providencia y la abundancia.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Provenda, la Cuarta

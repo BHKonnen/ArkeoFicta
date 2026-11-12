@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:21:17.326Z
-modified: 2026-09-30T20:52:31.106Z
-published: 2026-09-30T20:52:31.106Z
+modified: 2026-11-12T11:37:33.256Z
+published: 2026-11-12T11:37:33.256Z
 resumen: Tercer hijo de Marabunta, asociado al descubrimiento, la curiosidad y la relación con el entorno.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Saturos, el Tercero

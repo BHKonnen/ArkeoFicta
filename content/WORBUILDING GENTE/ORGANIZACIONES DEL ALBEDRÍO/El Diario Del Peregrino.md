@@ -1,15 +1,14 @@
 ---
 publish: true
 created: 2026-09-21T21:31:13.314Z
-modified: 2026-09-30T20:52:31.275Z
-published: 2026-09-30T20:52:31.275Z
+modified: 2026-11-12T11:37:33.617Z
+published: 2026-11-12T11:37:33.617Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
   - organizaciones
 campana:
   - albedrio
-acceso: privado
 group_type: other
 related_characters:
   - "[[Kiara Pelegrino]]"

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:40.594Z
-modified: 2026-09-30T20:52:31.082Z
-published: 2026-09-30T20:52:31.082Z
+modified: 2026-11-12T11:37:33.202Z
+published: 2026-11-12T11:37:33.202Z
 resumen: Deidad doble y única del espacio, el tiempo, la expansión y el orden inexorable.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Heremus y Horae, el Infinito y el Inexorable

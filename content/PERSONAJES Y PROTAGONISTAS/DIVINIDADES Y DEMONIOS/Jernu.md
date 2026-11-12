@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:21:16.206Z
-modified: 2026-09-30T20:52:31.085Z
-published: 2026-09-30T20:52:31.085Z
+modified: 2026-11-12T11:37:33.206Z
+published: 2026-11-12T11:37:33.206Z
 resumen: Segundo hijo de Marabunta, asociado al sustento, la caza y la supervivencia.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Jernu, el Segundo

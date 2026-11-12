@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:36.896Z
-modified: 2026-09-30T20:52:31.097Z
-published: 2026-09-30T20:52:31.097Z
+modified: 2026-11-12T11:37:33.240Z
+published: 2026-11-12T11:37:33.240Z
 resumen: Dios de la Luna Mayor, de lo oculto y de aquello que nunca debe comprenderse por completo.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Orijalcom, Portador de Lajteia

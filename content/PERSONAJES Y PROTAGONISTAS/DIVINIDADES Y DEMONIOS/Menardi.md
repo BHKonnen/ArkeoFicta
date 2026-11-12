@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:21:17.869Z
-modified: 2026-09-30T20:52:31.089Z
-published: 2026-09-30T20:52:31.089Z
+modified: 2026-11-12T11:37:33.220Z
+published: 2026-11-12T11:37:33.220Z
 resumen: Quinta hija de Marabunta, asociada a la reproducción, el deseo y la continuidad vital.
 topic: conocimientos
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Menardi, la Quinta

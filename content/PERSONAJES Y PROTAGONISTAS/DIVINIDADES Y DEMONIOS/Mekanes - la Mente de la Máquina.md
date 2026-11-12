@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Mejkanes, Mente de la Máquina
 created: 2026-09-21T19:17:39.418Z
-modified: 2026-09-30T20:52:31.088Z
-published: 2026-09-30T20:52:31.088Z
+modified: 2026-11-12T11:37:33.216Z
+published: 2026-11-12T11:37:33.216Z
 resumen: Deidad neutral de la tecnología, la invención y la conciencia de los objetos creados.
 topic: conocimientos
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - ciencia-y-tecnologia
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Mekanes, la Mente de la Máquina

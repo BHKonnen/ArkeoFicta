@@ -4,15 +4,14 @@ aliases:
   - Glosario
   - Terminología
 created: 2026-09-30T10:15:23.360Z
-modified: 2026-09-30T20:52:31.051Z
-published: 2026-09-30T20:52:31.051Z
+modified: 2026-11-12T11:37:32.891Z
+published: 2026-11-12T11:37:32.891Z
 resumen: Glosario de términos propios de Ellea y criterios para distinguir conceptos cercanos.
 topic: conocimientos
 multi_tag:
   - otros
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Glosario y desambiguaciones

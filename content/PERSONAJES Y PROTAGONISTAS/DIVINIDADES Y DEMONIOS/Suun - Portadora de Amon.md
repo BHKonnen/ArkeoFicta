@@ -4,8 +4,8 @@ aliases:
   - Suun - Portadora de Ámon
   - La llama de la justicia
 created: 2026-09-21T19:16:49.854Z
-modified: 2026-09-30T20:52:31.109Z
-published: 2026-09-30T20:52:31.109Z
+modified: 2026-11-12T11:37:33.261Z
+published: 2026-11-12T11:37:33.261Z
 resumen: Antigua heroína convertida en portadora de Ámon, diosa solar de la justicia y el sacrificio.
 topic: conocimientos
 multi_tag:
@@ -13,7 +13,6 @@ multi_tag:
   - mitologia-y-leyendas
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Suun, Portadora de Ámon

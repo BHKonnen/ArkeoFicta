@@ -1,11 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.615Z
-modified: 2026-10-04T23:50:11.640Z
-published: 2026-10-04T23:50:11.640Z
-tags:
-  - "#Personaje"
-  - "#SegundaCampaña"
+modified: 2026-11-06T17:14:13.949Z
+published: 2026-11-06T17:14:13.949Z
 character_type: minor
 estado_vital: desconocido
 campana:
@@ -78,5 +75,3 @@ Acerola es la madre biológica de Tupak el genási, junto con un carretero de la
 
 - **Santa Fortuna:** En los bajos fondos y pecios de Santa Fortuna, Madam MM (gerente del local _Quilla Contra Quilla_) mantiene relaciones estables e incluso se lleva bien tanto con con Acerola.
 - **El Templus Magistratus:** En las reuniones secretas de alta seguridad de [[Iserb]], las altas autoridades como el Alto Vigilio (Urbino Gonzzola) admiten la dificultad de lidiar con las repercusiones e interacciones de agentes como _Espada_ en [[el Mar del Albedrío]].
-
-#Personaje #SegundaCampaña
