@@ -1,8 +1,12 @@
 ---
 publish: true
+aliases:
+  - Wämot
+  - WënWïtanWämot
+  - Wamot
 created: 2026-09-21T21:31:10.501Z
-modified: 2026-11-12T11:37:33.671Z
-published: 2026-11-12T11:37:33.671Z
+modified: 2026-11-13T10:37:12.252Z
+published: 2026-11-13T10:37:12.252Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -141,13 +145,15 @@ La **presidenta actual** es la Princesa **Amarantha Alabastro Espiral**, goberna
 
 La presidencia ejerce la dirección institucional del Wämot y representa a la cámara en sus relaciones políticas, pero **no posee autoridad absoluta sobre las sesiones**, esa autoridad y hacer cumplir el orden de la camara corresponde exclusivamente a las Mahans.
 
-### Las Mahans
+### [[Las Mahans]]
 
 Por encima de las disputas entre representantes, dinastías y facciones se encuentran las **Mahans**, una antigua orden de figuras que representan la tierra misma sobre la que el wamot ejerce autoridad, y quienes tienen la última palabra sobre sobre el funcionamiento de las sesiones del Wämot.
 
-Las Mahans representan el centro de la círculo, en otras palabras son  **presidentas de la cámara**. Su función es garantizar el correcto desarrollo de los debates, hacer cumplir las normas de la asamblea y mantener el orden durante las sesiones. A diferencia de la presidencia política del Wämot, las Mahans son **completamente neutrales** frente a las facciones y conflictos políticos dentro y fuera de la cámara. El metodo de elección de la Mahan encargada de cada sesión es secreto.
+Las Mahans representan el círculo, en otras palabras son  **la cámara** misma. Su función es garantizar el correcto desarrollo de los debates, hacer cumplir las normas de la asamblea y mantener el orden durante las sesiones. A diferencia de la presidencia política del Wämot, las Mahans son **completamente neutrales** frente a las facciones y conflictos políticos dentro y fuera de la cámara.
 
-La autoridad de las Mahans dentro de las sesiones es superior a la de cualquier representante o princesa. Sus decisiones sobre el funcionamiento de la cámara deben ser acatadas por los miembros del Wämot. Las Mahans son consideradas **inviolables**, fuera y dentro de la cámara , interferir en sus funciones o tratar de someterla a los intereses de una facción **<u>constituye una de las mayores transgresiones dentro de la tradición política del Albedrío.</u>**
+**El metodo de elección de la Mahan encargada de cada sesión es secreto**. Cuestionar su neutralidad en la cámara conlleva la pena de exilio.
+
+La autoridad de las Mahans dentro de las sesiones es superior a la de cualquier representante o princesa. Sus decisiones sobre el funcionamiento de la cámara deben ser acatadas por los miembros del Wämot. Las Mahans son consideradas **inviolables**, fuera y dentro de la cámara , interferir en sus funciones, atacarlas o tratar de someterlos a los intereses de una facción **<u>**constituye una de las mayores transgresiones dentro de la tradición política del Albedrío.**</u>**
 
 La tradición de las Mahans es anterior a la organización política actual del Wämot y está estrechamente relacionada con el origen de los **[[Círculos del Albedrío]]**. De esta antigua tradición procede buena parte del sistema mediante el cual se organizan y representan las distintas comunidades del Albedrío.
 

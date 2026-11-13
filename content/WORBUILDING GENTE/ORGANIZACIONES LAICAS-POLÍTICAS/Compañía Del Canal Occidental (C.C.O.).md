@@ -1,22 +1,21 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.586Z
-modified: 2026-10-06T21:20:59.501Z
-published: 2026-10-06T21:20:59.501Z
+modified: 2026-11-13T16:38:46.811Z
+published: 2026-11-13T16:38:46.811Z
 resumen: Zaibatsu y compañía-estado que controla La Fuente, las ciudades del entorno de El Acueducto y una parte esencial de su infraestructura.
 topic: sociedad
 multi_tag:
   - organizaciones
 campana:
   - albedrio
-acceso: privado
 group_type: other
 related_characters:
   - "[[Mercucho Arjenso]]"
   - "[[Netty]]"
   - "[[Mön Vizardo]]"
 related_groups:
-  - "[[I.P.A Industrias Pesadas Acueducto]]"
+  - "[[I.P.A.]]"
 ---
 
 # [[Compañía del Canal Occidental (C.C.O.)]]

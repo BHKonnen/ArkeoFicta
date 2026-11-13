@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Dommus Ossa
 created: 2026-09-21T19:18:03.181Z
-modified: 2026-09-30T20:52:31.307Z
-published: 2026-09-30T20:52:31.307Z
+modified: 2026-11-12T11:37:33.689Z
+published: 2026-11-12T11:37:33.689Z
 resumen: Orden funeraria y contemplativa que representa a la Trinidad del destino, los sueños y la muerte.
 topic: sociedad
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Domus Ossa

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:19:03.737Z
-modified: 2026-09-30T20:52:31.318Z
-published: 2026-09-30T20:52:31.318Z
+modified: 2026-11-12T11:37:33.708Z
+published: 2026-11-12T11:37:33.708Z
 resumen: Segmento de Saturos dedicado al descubrimiento, la curiosidad y la relación entre los seres y su entorno.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # El Segmento de Humor

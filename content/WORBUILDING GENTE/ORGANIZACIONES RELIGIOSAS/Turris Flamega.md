@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:20:15.944Z
-modified: 2026-09-30T20:52:31.337Z
-published: 2026-09-30T20:52:31.337Z
+modified: 2026-11-12T11:37:33.744Z
+published: 2026-11-12T11:37:33.744Z
 resumen: Orden matriarcal de juezas, mediadoras y defensoras de Suun.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Turris Flamega

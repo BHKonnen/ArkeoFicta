@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-16T15:44:52.012Z
-modified: 2026-09-30T20:52:31.333Z
-published: 2026-09-30T20:52:31.333Z
+modified: 2026-11-12T11:37:33.735Z
+published: 2026-11-12T11:37:33.735Z
 resumen: Segmento de Menardi dedicado a la reproducción, el deseo y la continuidad de la vida.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Segmento de Simiente

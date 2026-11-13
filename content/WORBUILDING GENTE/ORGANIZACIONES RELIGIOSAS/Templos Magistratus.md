@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:20:16.706Z
-modified: 2026-09-30T20:52:31.336Z
-published: 2026-09-30T20:52:31.336Z
+modified: 2026-11-12T11:37:33.740Z
+published: 2026-11-12T11:37:33.740Z
 resumen: Grupos de clérigos armados que protegen a los peregrinos en el Camino de Iserb.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Templos Magistratus

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:42.678Z
-modified: 2026-09-30T20:52:31.321Z
-published: 2026-09-30T20:52:31.321Z
+modified: 2026-11-12T11:37:33.712Z
+published: 2026-11-12T11:37:33.712Z
 resumen: Orden de la palabra pública, los contratos y el deber, representante de Offijium.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Fraternas Forum

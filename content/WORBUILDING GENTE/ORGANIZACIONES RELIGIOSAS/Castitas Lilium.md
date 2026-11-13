@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:17:42.013Z
-modified: 2026-09-30T20:52:31.305Z
-published: 2026-09-30T20:52:31.305Z
+modified: 2026-11-12T11:37:33.686Z
+published: 2026-11-12T11:37:33.686Z
 resumen: Comunidad de clérigos consagrados a juramentos íntimos en nombre de Psijem.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Castitas Lilium

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:20:16.444Z
-modified: 2026-09-30T20:52:31.330Z
-published: 2026-09-30T20:52:31.330Z
+modified: 2026-11-12T11:37:33.725Z
+published: 2026-11-12T11:37:33.725Z
 resumen: Segmento de Jernu dedicado a la caza, el sustento y la primogenitura de Marabunta.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Segmento de Sangre

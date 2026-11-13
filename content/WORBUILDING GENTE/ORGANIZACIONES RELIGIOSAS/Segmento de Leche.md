@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:19:03.462Z
-modified: 2026-09-30T20:52:31.327Z
-published: 2026-09-30T20:52:31.327Z
+modified: 2026-11-12T11:37:33.722Z
+published: 2026-11-12T11:37:33.722Z
 resumen: Segmento de Provenda dedicado al crecimiento, la providencia y la abundancia.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Segmento de Leche

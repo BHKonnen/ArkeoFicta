@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T19:16:48.638Z
-modified: 2026-10-06T21:50:56.384Z
-published: 2026-10-06T21:50:56.384Z
+modified: 2026-11-12T11:37:33.704Z
+published: 2026-11-12T11:37:33.704Z
 resumen: Consejo de doce asientos religiosos que gestiona y protege el Camino de Iserb.
 topic: sociedad
 multi_tag:
@@ -10,7 +10,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 related_groups:
   - "[[Templo Ecuménico del Camino de Iserb]]"
 ---

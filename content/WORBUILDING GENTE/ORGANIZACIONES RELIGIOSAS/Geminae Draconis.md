@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Geminis draconis
 created: 2026-09-21T19:18:03.585Z
-modified: 2026-09-30T20:52:31.324Z
-published: 2026-09-30T20:52:31.324Z
+modified: 2026-11-12T11:37:33.718Z
+published: 2026-11-12T11:37:33.718Z
 resumen: Orden del espacio y el tiempo que representa a la deidad doble Heremus y Horae.
 topic: sociedad
 multi_tag:
@@ -12,7 +12,6 @@ multi_tag:
   - religiones-e-ideologias
 campana:
   - ellea-base
-acceso: privado
 ---
 
 # Geminae Draconis

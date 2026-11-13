@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Adeptus Mechanicus
 created: 2026-09-21T19:18:02.439Z
-modified: 2026-09-30T20:52:31.302Z
-published: 2026-09-30T20:52:31.302Z
+modified: 2026-11-12T11:37:33.678Z
+published: 2026-11-12T11:37:33.678Z
 resumen: Culto tecnológico de Mekanes, dividido en las vías Ethos, Logos y Pathos.
 topic: sociedad
 multi_tag:
@@ -13,7 +13,6 @@ multi_tag:
   - ciencia-y-tecnologia
 campana:
   - ellea-base
-acceso: publico
 ---
 
 # Adeptus Mekanicus
