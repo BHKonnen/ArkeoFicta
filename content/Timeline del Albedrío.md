@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-08T12:04:29.058Z
-modified: 2026-11-17T21:23:38.810Z
-published: 2026-11-17T21:23:38.810Z
+modified: 2026-11-17T21:29:48.582Z
+published: 2026-11-17T21:29:48.582Z
 topic: historia
 multi_tag:
   - Cronología
@@ -38,6 +38,9 @@ Cronología de referencia de [[Primordia]] y de la Segunda Campaña. El presente
 
 ### Los años de la Postvida · c. 482–183 AE · c. 300–1 MA
 
+<details>
+<summary>Ver cronología de la Postvida</summary>
+
 Tras la Guerra por la Vida, los restos de las instituciones y conocimientos supervivientes se pierden en nuevos conflictos mientras las autoridades clericales disputan el control del litoral.
 
 | Fecha | Tipo | Evento | Resumen |
@@ -50,6 +53,11 @@ Tras la Guerra por la Vida, los restos de las instituciones y conocimientos supe
 
 ### Los años de la Reapertura y la Reconstrucción · 182 AE–0 DE · 0–182 CMA
 
+</details>
+
+<details>
+<summary>Ver cronología de la Reapertura y la Reconstrucción</summary>
+
 La caída de los Muros Albinos abre Iserb al mundo y permite restaurar reglas de tránsito, autonomía y negociación entre los poderes del mar.
 
 | Fecha | Tipo | Evento | Resumen |
@@ -61,6 +69,11 @@ La caída de los Muros Albinos abre Iserb al mundo y permite restaurar reglas de
 | 0 DE · 182 CMA | <span style="color: #7557a8">● Sucesión</span> | **[[Nacimiento de Haton Seleuce]]** | El nacimiento del futuro Emperador Seleuce inaugura el Calendario Imperial. |
 
 ### Los años de la Primordia Inter Bellum · 82 AE–800 DE · 100–982 CMA
+
+</details>
+
+<details>
+<summary>Ver cronología de la Primordia Inter Bellum</summary>
 
 La relativa paz de la era convive con desurbanización, esclavitud, rivalidades religiosas y una respuesta cada vez más débil del WënWïtanWämot ante las crisis regionales.
 
@@ -75,6 +88,11 @@ La relativa paz de la era convive con desurbanización, esclavitud, rivalidades 
 | c. 760 DE · c. 942 CMA | <span style="color: #c73e3a">● Seguridad</span> | **Crisis del Lejano Este** | La llegada de flotas y colonos divide al Wämot e impide una defensa regional efectiva. |
 
 ### Los años de la Primordia Imperial · 800–1415 DE · 982–1597 CMA
+
+</details>
+
+<details>
+<summary>Ver cronología de la Primordia Imperial</summary>
 
 Las campañas de Seleuce transforman ciudades, rutas y poderes del litoral; la posterior reconquista del Wämot recupera el núcleo de Primordia sin expulsar del todo la presencia imperial.
 
@@ -94,6 +112,8 @@ Las campañas de Seleuce transforman ciudades, rutas y poderes del litoral; la p
 | c. 1415 DE · c. 1597 CMA | <span style="color: #c73e3a">● Asesinato</span> | **[[Asesinato de la Mahan Xi]]** | El Imperio asesina a Xi y detiene el avance de la reconquista. |
 | c. 1415 DE · c. 1597 CMA | <span style="color: #c73e3a">● Asesinato</span> | **[[Asesinato de la Mahan Neïde]]** | El Wämot asesina a la sucesora de Xi, cerrando la edad con otra ruptura política. |
 | 1415 DE · 1597 CMA | <span style="color: #7557a8">● Transición</span> | **Fin de la Edad de la Primordia Imperial** | El Imperio conserva la bahía de las Repúblicas, pero pierde el control del núcleo de Primordia. |
+
+</details>
 
 ## EDAD DEL ENJENDRAMIENTO (1415 DE a 2097 DE · 1597 CMA a 2279 CMA)
 
@@ -121,6 +141,9 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 
 #### Los años del Ocaso del Norte · 2975–2985 DE · 3157–3167 CMA
 
+<details>
+<summary>Ver cronología del Ocaso del Norte</summary>
+
 | Fecha | Tipo | Evento | Resumen |
 | --- | --- | --- | --- |
 | 2976 DE · 3158 CMA | <span style="color: #c98215">● Economía</span> | **La Crisis de los Astilleros** | El cierre de astilleros y aserraderos de Pekkia desplaza empleo e inversiones hacia Puerto Esmeralda. |
@@ -136,6 +159,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 2985 DE · 3167 CMA | <span style="color: #7557a8">● Política</span> | **La Petición de los Círculos** | La Corona rechaza reformas fiscales y de representación, agravando su conflicto con el Círculo. |
 
 #### Los años de la Crisis de Pekkia · 2985–3000 DE · 3167–3182 CMA
+
+</details>
+
+<details>
+<summary>Ver cronología de la Crisis de Pekkia</summary>
 
 | Fecha | Tipo | Evento | Resumen |
 | --- | --- | --- | --- |
@@ -154,6 +182,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 
 #### Los años de la Fragmentación del Albedrío · 3000–3015 DE · 3182–3197 CMA
 
+</details>
+
+<details>
+<summary>Ver cronología de la Fragmentación del Albedrío</summary>
+
 | Fecha | Tipo | Evento | Resumen |
 | --- | --- | --- | --- |
 | 3000 DE · 3182 CMA | <span style="color: #7557a8">● Política</span> | **La Desaparición del Segundo Rey** | La ausencia de Gonsalo precipita el colapso de la autoridad central de Pekkia. |
@@ -170,6 +203,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 
 #### Los años de la Restauración de los Principados · 3015–3025 DE · 3197–3207 CMA
 
+</details>
+
+<details>
+<summary>Ver cronología de la Restauración de los Principados</summary>
+
 | Fecha | Tipo | Evento | Resumen |
 | --- | --- | --- | --- |
 | 3015 DE · 3197 CMA | <span style="color: #c98215">● Economía</span> | **El Reordenamiento de las Potencias** | La C.C.O. amplía su peso comercial y financiero mediante su industria automatizada. |
@@ -185,10 +223,12 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 3028 DE · 3210 CMA | <span style="color: #2d7f9d">● Diplomacia</span> | **El Acercamiento de Fan-Ankohl** | Fan-Ankohl actúa progresivamente como intermediario entre Iserb y los principados. |
 | 3030 DE · 3212 CMA | <span style="color: #7557a8">● Política</span> | **La Expulsión de Mäp del Wämot** | Mäp pierde su condición de observador y profundiza su aislamiento diplomático. |
 
+</details>
+
 ## 3033 DE / 3215 CMA — Los años de la Crisis del Orden Anélico
 
-> [!info] Equivalencia calendárica
-> Todos los acontecimientos de esta sección corresponden a **3033 DE**, equivalente a **3215 CMA**.
+<details>
+<summary>Ver cronología de la Crisis del Orden Anélico</summary>
 
 3033 marca una crisis generalizada en el Mar del Albedrío: fracasa la mediación entre la C.C.O. y el Segmento de Sangre, crece la guerra entre facciones piratas y se debilitan las instituciones de Iserb, el WënWïtanWämot y los principados. La inestabilidad de Mäp, Iserlohn y las Tikar, junto con el deterioro climático y alimentario, amenaza con extenderse a todo el Albedrío.
 
@@ -210,6 +250,8 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 3033 DE · 3215 CMA | <span style="color: #7557a8">● Instituciones</span> | **La Crisis del Dodecadrón**                   | Iserlohn, Mäp y la cercanía con la C.C.O. dividen las confesiones de Iserb y paralizan al consejo.                                 |
 | 3033 DE · 3215 CMA | <span style="color: #c98215">● Crisis</span>        | **La Segunda Crisis Tikar**                    | Refugiados, cenizas, malas cosechas y el corte de exportaciones amenazan la subsistencia regional.                                 |
 | 3033 DE · 3215 CMA | <span style="color: #2d7f9d">● Diplomacia</span>    | **La Gran Asamblea de Waipo**                  | Las princesas debaten la guerra, los privilegios nobiliarios y el futuro del Wämot.                                                |
+
+</details>
 
 ## Plantilla para nuevos acontecimientos
 

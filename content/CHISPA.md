@@ -3,8 +3,8 @@ publish: true
 aliases:
   - CHISPA..
 created: 2026-11-06T17:25:45.885Z
-modified: 2026-11-12T11:53:52.250Z
-published: 2026-11-12T11:53:52.250Z
+modified: 2026-11-13T16:54:04.237Z
+published: 2026-11-13T16:54:04.237Z
 topic: magia
 multi_tag:
   - otros
@@ -16,7 +16,7 @@ timeline: Calendario Imperial
 
 # CHISPA
 
-La **CHISPA** es el nombre más extendido del acuerdo internacional que regula el empleo de la magia. Su denominación oficial es el **Convenio de Hechicería Internacional para la Salvaguarda de los Pueblos y el Albedrío**. Reúne los **Estatutos de Regulación Unificada** y constituye el marco con el que se juzgan los crímenes mágicos equiparables a crímenes de guerra.
+La **CHISPA** es el nombre más extendido del **C**onvenio sobre **H**echicería **I**nternacional, **S**eguridad y **P**rácticas **A**rcanas. Un acuerdo internacional que regula el empleo de la magia. Reúne los **Estatutos de Regulación Unificada** y constituye el marco con el que se juzgan los crímenes contra la magia equiparables a crímenes de guerra.
 
 Ha sido ratificada, reformada y discutida por múltiples naciones, órdenes e individuos a lo largo de la [[HISTORIA PRIMORDIA]]. Según la región también recibe los nombres de **los Estatutos**, **el Mordisco** y **el Ñasc**.
 
@@ -25,11 +25,15 @@ Ha sido ratificada, reformada y discutida por múltiples naciones, órdenes e in
 
 ## Preámbulo
 
-La conferencia que dio origen a la CHISPA se formó durante [[La Guerra Por La Vida]], cuando la escala de la destrucción mágica hizo evidente que ninguna nación podía limitar por sí sola las prácticas de sus arcanistas. Los signatarios reconocen que la magia puede manifestarse de maneras imprevisibles y que, aun así, quienes la emplean responden por los daños previsibles que causen.
+La conferencia que dio origen a la CHISPA se formó durante [[La Guerra Por La Vida]], cuando la escala de la destrucción mágica hizo evidente que ninguna nación podía limitar por sí sola las prácticas de sus arcanistas. Sin embargo la ratificación de los tratados definitivos no se produciría hasta siglos más tarde. La firma del tratado por Estados de [[Primordia]] y [[Carth]] se produce después de [[La Gran Deflagración]]. Durante las Campañas Imperiales.
+
+Con ella, sus principios pasan a regir de forma común el uso de la magia en los conflictos. Los signatarios reconocen que la magia puede manifestarse de maneras imprevisibles y que, aun así, quienes la emplean responden por los daños previsibles que causen.
 
 El convenio establece como fines comunes la protección de la vida y dignidad de toda persona, la preservación del albedrío, la limitación de la crueldad en la guerra y la reparación de las víctimas de magia ilícita.
 
-La firma del tratado por Estados de [[Primordia]] y [[Carth]] se produce después de [[La Gran Deflagración]]. Con ella, sus principios pasan a regir de forma común el uso de la magia en los conflictos.
+## SIGNATARIOS
+
+_tabla por desarrollar_
 
 ## Título I. Disposiciones generales
 
@@ -59,7 +63,7 @@ Se prohíbe emplear magia con el fin de aterrorizar a la población civil, destr
 
 ### Sección III. Magia prohibida
 
-Quedan prohibidas las prácticas cuya naturaleza o método impida controlar razonablemente sus consecuencias sobre personas no participantes, así como las que requieran exterminio, tortura, esclavitud, experimentación forzosa o supresión duradera de la voluntad.
+Quedan prohibidas las prácticas cuya naturaleza o método impida controlar razonablemente sus consecuencias sobre personas no participantes, así como las que requieran exterminio, tortura, esclavitud, experimentación forzosa o supresión duradera de la voluntad. Para más Información consultar el listado de [[Hechizos y prácticas mágicas prohibidas]]
 
 ### Sección IV. Crímenes contra la magia
 
