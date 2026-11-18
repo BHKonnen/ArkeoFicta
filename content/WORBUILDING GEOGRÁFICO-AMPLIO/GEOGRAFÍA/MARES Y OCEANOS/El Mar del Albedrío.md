@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.769Z
-modified: 2026-10-06T15:57:28.856Z
-published: 2026-10-06T15:57:28.856Z
+modified: 2026-11-18T15:47:20.796Z
+published: 2026-11-18T15:47:20.796Z
 resumen: Gran mar de [[Primordia]] cuyas aguas desafían la gravedad.
 location_type: mar
 parent_location: "[[Primordia]]"
@@ -70,7 +70,7 @@ El extremo norte del Albedrío, dominado por aguas tranquilas y muros de agua de
 
 ### La Alta Costa Norte
 
-Las costas elevadas del oeste, donde los muros de agua alcanzan algunas de sus mayores alturas. La región está dividida en dos por la [[Península de las Brujas]]. Su mitad norte permanece prácticamente deshabitada, con la excepción del reciente asentamiento de [[Nuevo Puerto]].
+Las costas elevadas del oeste, donde los muros de agua alcanzan algunas de sus mayores alturas. La región está dividida en dos por la [[Península de las Brujas]]. Su mitad norte permanece prácticamente deshabitada, con la excepción del reciente asentamiento abandonado de [[Puerto Nuevo]].
 
 ### La Península de las Brujas
 
@@ -90,7 +90,7 @@ Situadas al sur del Albedrío, sus muros de agua apenas se elevan por encima del
 
 ### La Verde Bahía
 
-Famosa por sus aguas verdosas, sus manglares y sus resguardos, es una de las regiones de mayor valor estratégico del Albedrío. La bahía está además protegida por la isla de [[Terrade]] y limita al norte con la irregular Costa de Mäp
+Famosa por sus aguas verdosas, sus manglares y sus resguardos, es una de las regiones de mayor valor estratégico del Albedrío. La bahía está además protegida por la isla de [[Tarrade]] y limita al norte con la irregular Costa de Mäp.
 
 ### La Península de Iserb
 
@@ -106,7 +106,9 @@ Una extensa región de playas y aguas poco profundas, alimentada por tres grande
 
 ## Ciudades y asentamientos
 
-Ciudades del Mar Extraño: [[Iserb]], [[Wen-Waipo]], [[Wen-Wapar]], [[Puerto Esmeralda]], [[Santa Fortuna]], [[La Niña]], [[Pekkia]], [[Brotante Prima]]
+La relación completa y actualizada de localidades se encuentra en [[Ciudades del Albedrío]]. Entre los puertos mayores destacan [[La Ciudad de Iserb]], [[Wen-Waipo]], [[Puerto Esmeralda]], [[Brotante Prima]], [[SORGENTE PRIMA]] y [[Pekkia]].
+
+Entre los puertos menores y enclaves de mayor relevancia están [[Wën-Wareni]], [[Wën Wäbat]], [[Puerto de Mäp]], [[Fan-Ankohl]], [[Fan-Gaol]], [[Tarrade]], [[Tesonora]], [[Nuva Mosssa]], [[Nemmo]] y [[Puerto Nuevo]]. Los pecios de [[Santa Fortuna]], [[La Niña]] y [[La Pintá]] forman asimismo una red de asentamientos flotantes y bases piratas.
 
 ## Poderes y Estados del Albedrío
 
@@ -114,7 +116,7 @@ El Mar del Albedrío carece de una autoridad dominante. Sus costas y aguas está
 
 ### [[Compañía Del Canal Occidental (C.C.O.)|CCO]] "La Fuente"
 
-La compañía mercantil más potente de Primordia,  controla el 100% del [[El Acueducto]] y varios enclaves estratégicos de entrada . Su particularidad es que gran parte de su estructura está dominada por **constructos**. Sus dos principales asentamientos son las ciudades de  [[Brontante Prima]] y [[SORGENTE PRIMA]]
+La compañía mercantil más potente de Primordia controla [[El Acueducto]] y varios enclaves estratégicos de entrada. Su particularidad es que gran parte de su estructura está dominada por **constructos**. Sus dos principales asentamientos son [[Brotante Prima]] y [[SORGENTE PRIMA]], y [[Tesonora]] funciona como puerto menor bajo su control.
 
 ### [[Templo Ecuménico de Iserb]]
 
@@ -126,10 +128,26 @@ El Templo Ecuménico de Iserb, a través del Dodecadrón tiene como estados vasa
 
 El Wämot es una de las instituciones más antiguas de Primorida, representa los intereses de las ciudades del Albedrío, especialmente aquellas que son Principados. No constituye un estado unificado, sino una antigua tradición de cooperación, mediación y parlamentarismo entre ciudades.
 
-Los actuales territorios/ciudades asociados al Wämot son: [[Wen-Waipo]], [[Puerto Esmeralda]], [[Wën-Wäbat]], [[Wën-Wäreni]] y como estados observadores [[La República de Puerto de Mäp]] y [[El Archiardunado de Fan-Ankohl]]
+Los actuales territorios y ciudades asociados al Wämot son [[Wen-Waipo]], [[Puerto Esmeralda]], [[Wën Wäbat]] y [[Wën-Wareni]]. Como estados observadores participan [[Puerto de Mäp]] y [[Fan-Ankohl]].
 
 ### [[Repúblicas Pirata de Pekkia]]
 
 Extensos territorios de la costa noroccidental, particularmente en la región de Las Lagunas de Nadie donde distintas bandas piratas ejercen el poder bajo las costumbres del [[Liber Ergo Nautas]].  La autoridad cambia constantemente según las alianzas y la fuerza de cada banda, en la arraigada tradicción de la [[Piratería En el Albedrío]]
 
 Las principales ciudades bajo autoridad pirata son [[Pekkia]], [[Santa Fortuna]], y los pecios de [[La Niña]], [[La Pintá]] y actualmente [[LA FORTALEZA DE ISERLONH]]
+
+Los [[Los Piratas Verdes]] mantienen además su base en [[Tarrade]] y controlan [[Nuva Mosssa]]; [[Nemmo]] se rige por su propia República Pirata.
+
+## Situación actual
+
+En 3033, el Albedrío atraviesa una crisis general. La guerra entre la [[Compañía Del Canal Occidental (C.C.O.)|C.C.O.]] y el Segmento de Sangre, el deterioro de las rutas y la inestabilidad climática han puesto presión sobre el abastecimiento y la navegación.
+
+La caída del antiguo régimen de Mäp dio paso a una república dirigida por los Círculos Revolucionarios en [[Puerto de Mäp]], reconocida como observadora por el Wämot. Al mismo tiempo, el motín de Iserlohn y las revelaciones posteriores han debilitado la confianza en el [[Templus Magistratus]], mientras las facciones piratas conservan o amplían su control sobre distintos puertos y pecios.
+
+<iframe
+  src="https://miro.com/app/live-embed/uXjVHKMmLQc=/?autoplay=true"
+  width="100%"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
