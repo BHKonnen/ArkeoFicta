@@ -5,8 +5,8 @@ aliases:
   - WënWïtanWämot
   - Wamot
 created: 2026-09-21T21:31:10.501Z
-modified: 2026-11-18T16:19:51.594Z
-published: 2026-11-18T16:19:51.594Z
+modified: 2026-11-18T16:46:40.660Z
+published: 2026-11-18T16:46:40.660Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -28,9 +28,6 @@ related_groups:
 El **WënWïtanWämot no constituye un Estado ni un gobierno supranacional**. Es una institución política común de las ciudades-estado y principados del [[Mar del Albedrío]], sus funciones principalmente parlamentarias, tenuemente  legislativas y diplomáticas. Su autoridad depende de los estados que lo integran, pero no sustituye a sus propios gobiernos.
 
 El Wämot cuenta con una **única cámara**, en la que conviven dos formas de representación: los representantes elegidos por los [[Círculos del Albedrío]] de los estados miembros y la representación permanente de las dinastías que gobiernan dichos estados.
-
-<?xml version="1.0" encoding="UTF-8"?>
-
 ![[attachments/hemiciclo-wen-witan-wamot.svg|680]]
 
 _Hemiciclo del Wën Wïtan Wämot: representación de sus escaños, dinastías, observadores y presidencia actual._

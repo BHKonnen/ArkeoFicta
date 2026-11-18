@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-13T10:37:12.710Z
-modified: 2026-11-13T11:09:18.296Z
-published: 2026-11-13T11:09:18.296Z
+modified: 2026-11-18T15:06:18.769Z
+published: 2026-11-18T15:06:18.769Z
 resumen: Ciudades del Mar del Albedrío con nota propia en el vault.
 topic: geobiologia
 multi_tag:
@@ -31,13 +31,16 @@ campana:
 
 | Ciudad            | Gobernante o autoridad          | Sistema político                                                        | Miniresumen                                                                                                            |
 | ----------------- | ------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [[Wën Wäbat]]     | Sin especificar                 | Sin especificar                                                         | La Ciudad de los Venenos del Sur.                                                                                      |
+| [[Tesonora]]      | [[Compañía Del Canal Occidental (C.C.O.)\|C.C.O.]] | Puerto corporativo de la C.C.O.                         | Puerto menor bajo control de la Compañía del Canal Occidental.                                                         |
+| [[Nuva Mosssa]]   | [[Los Piratas Verdes]]          | Puerto bajo control pirata                                              | Puerto menor controlado por los Piratas Verdes.                                                                        |
+| [[Nemmo]]         | República Pirata de Nemmo       | República pirata                                                        | Puerto menor bajo la autoridad de la República Pirata de Nemmo.                                                        |
+| [[Puerto Nuevo]]  | Ninguna                         | Abandonado                                                              | Puerto menor abandonado, sin gobierno reconocido.                                                                      |
 | [[Wën-Wareni]]    | [[Princesa Olga Oro Oloid]]     | Principado de la dinastía Oro Oloid, integrante del [[Wën Wïtan Wämot]] | Ciudad de los Puentes y del pontazgo, sede tradicional de las asambleas extraordinarias del Wämot.                     |
-| [[Puerto de Mäp]] | Autoridad no especificada       | República de Puerto de Mäp, observadora del Wämot                       | Puerto vinculado a la reorganización republicana posterior a la caída de Reocardo de Mäp.                              |
+| [[Puerto de Mäp]] | Círculos Revolucionarios        | República de Puerto de Mäp, observadora del Wämot                       | Puerto controlado por los Círculos Revolucionarios tras la caída de Reocardo de Mäp.                                   |
 | [[Fan-Ankohl]]    | [[Archiardunado de Fan Ankohl]] | Archiardunado observador del Wämot                                      | Archiardunado insular asociado a Iserb y representado como observador en el Wämot.                                     |
 | [[Fan-Gaol]]      | Sin especificar                 | Sin especificar                                                         | Puerto menor pendiente de desarrollo en las fuentes actuales.                                                          |
 | [[Tarrade]]       | [[Gran Capitán Barba Ciprés]]   | Base bajo control pirata                                                | Isla y base de los [[Los Piratas Verdes]], desde la que ejercen influencia sobre la Bahía Verde y el sur del Albedrío. |
-
-| [[MARABELLA]] | Julia Elailin, vizcondesa subordinada al Duque de Capáz | Vizcondado feudal | Pequeño puerto pesquero sobre los acantilados del Cuerno Capáz, marcado por el declive de sus minas de mármol. |
 
 ## Los pecios
 
@@ -61,7 +64,12 @@ campana:
 ### Puertos menores
 
 - [[Wën-Wareni]]
+- [[Wën Wäbat]]
+- [[Tesonora]]
+- [[Nuva Mosssa]]
 - [[Puerto de Mäp]]
+- [[Nemmo]]
+- [[Puerto Nuevo]]
 - [[Fan-Ankohl]]
 - [[Fan-Gaol]]
 - [[Tarrade]]
