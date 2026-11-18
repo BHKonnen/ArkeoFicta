@@ -4,23 +4,19 @@ filters:
     - file.hasProperty("topic")
 properties:
   publish:
-    displayName: Publish
+    displayName: Publicado
   file.name:
     displayName: Entrada
   resumen:
     displayName: Resumen
   topic:
-    displayName: TOPIC TAG
+    displayName: Tema
   multi_tag:
-    displayName: MULTI TAG
+    displayName: Etiquetas
   campana:
-    displayName: CAMPAÑA
+    displayName: Campaña
   acceso:
     displayName: Acceso
-  timeline:
-    displayName: Timeline
-  note.multi_tag:
-    displayName: multi_topic
 views:
   - type: table
     name: Todas las entradas
@@ -31,12 +27,9 @@ views:
       - multi_tag
       - campana
       - acceso
-      - timeline
     sort:
-      - property: multi_tag
-        direction: DESC
       - property: file.name
-        direction: DESC
+        direction: ASC
     columnSize:
       file.name: 167
       note.resumen: 248
@@ -57,22 +50,21 @@ views:
       - property: file.name
         direction: ASC
   - type: table
-    name: Para jugadores
+    name: Públicas
+    filters:
+      and:
+        - acceso == "publico"
     order:
       - file.name
       - resumen
       - topic
       - multi_tag
       - campana
-      - timeline
     sort:
       - property: file.name
         direction: ASC
   - type: table
     name: Por campaña
-    filters:
-      and:
-        - file.hasLink("LORENA CONJUNTA/LORE HIDE TASTY/La Balda del Reloj Derrocado/La Balada del Reloj Derrocado.md")
     groupBy:
       property: campana
       direction: ASC
@@ -83,5 +75,3 @@ views:
       - topic
       - multi_tag
       - acceso
-  - type: table
-    name: Vista
