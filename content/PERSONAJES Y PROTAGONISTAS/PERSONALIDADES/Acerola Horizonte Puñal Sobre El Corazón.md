@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.615Z
-modified: 2026-11-18T16:09:55.455Z
-published: 2026-11-18T16:09:55.455Z
+modified: 2026-11-18T16:16:43.507Z
+published: 2026-11-18T16:16:43.507Z
 character_type: minor
 estado_vital: desconocido
 campana:
@@ -32,21 +32,7 @@ related_entries: []
 > | **Ocupación** | Cazapiratas; vampira a tiempo completo |
 > | **Naturaleza** | Vampira |
 > | **Última ubicación conocida** | Brotante |
->
-> ###### Situación
->
-> | Atributo | Detalle |
-> | --- | --- |
-> | **Estatus legal** | En búsqueda y captura. Solo información; no confrontar. |
-> | **Recompensa** | 500 piezas de oro por información fiable; 5 torres de [[Iserb]] si conduce a su captura. |
->
-> ###### Vínculos
->
-> | Atributo | Detalle |
-> | --- | --- |
-> | **Seguidores conocidos** | [[Eritzabez]] y un demonio sin nombre |
-> | **Grupos relacionados** | [[Las Gamakas]]; [[La Banda del Segundo Rey]] |
-> | **Relación conocida** | Madre de [[Tupak El Genasi]] |
+> | **Vínculos** | [[Las Gamakas]]; [[La Banda del Segundo Rey]]; madre de [[Tupak El Genasi]] |
 
 ### **Descripción general**
 
