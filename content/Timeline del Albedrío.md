@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-08T12:04:29.058Z
-modified: 2026-11-17T21:29:48.582Z
-published: 2026-11-17T21:29:48.582Z
+modified: 2026-11-18T09:07:28.636Z
+published: 2026-11-18T09:07:28.636Z
 topic: historia
 multi_tag:
   - Cronología
@@ -14,16 +14,16 @@ timeline: Calendario Imperial
 
 # Timeline del Albedrío
 
-Cronología de referencia de [[Primordia]] y de la Segunda Campaña. El presente es el **año 3033 del Calendario Imperial**, equivalente al **año 3215 del Calendario Iserbita**. No pretende enumerar cada reinado, incursión o reforma local: reúne los hechos que modificaron de forma duradera el mar, sus rutas, sus instituciones o la vida de sus pueblos.
+Cronología de referencia de [[Primordia]] y de la Segunda Campaña. El presente es el **año 3033 del Calendario Imperial**, equivalente al **año 3215 del Calendario Iserbita**. No enumera cada reinado, incursión o reforma local: reúne los hechos que modificaron de forma duradera el mar, sus rutas, sus instituciones o la vida de sus pueblos.
 
 > [!info] Equivalencia de calendarios
 > El Calendario Imperial comienza con el nacimiento de [[El Emperador Seleuce|Haton Seleuce]] en [[Carth]], en el año imperial 0. El calendario iserbita se adelanta 182 años: $\text{año iserbita} = \text{año imperial} + 182$.
 >
-> **Calendario Imperial**: Antes del Emperador / Después del Emperador (AE / DE)
+> [[**Calendario Imperial**]]: Antes del Emperador / Después del Emperador (AE / DE)
 >
-> **Calendario Iserbita:** Antes de la Caída de los Muros Albinos / Después de la Caída de los Muros Albinos (MA / CMA)
+> [[**Calendario Iserbita:**]] Antes de la Caída de los Muros Albinos / Después de la Caída de los Muros Albinos (MA / CMA)
 
-## Grandes edades de Primordia
+## Grandes edades de Primordia durante la Tercera Era
 
 | Edad                          | Fechas                                      | Rasgos principales                                                                                                            |
 | ----------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -31,10 +31,14 @@ Cronología de referencia de [[Primordia]] y de la Segunda Campaña. El presente
 | Primordia Inter Bellum        | −82 AE a 800 DE · 100 a 982 CMA             | Periodo iniciado con la firma de los Acuerdos Anélicos y marcado por la fragmentación política antes de la invasión imperial. |
 | Edad de la Primordia Imperial | 800 DE a 1415 DE · 982 CMA a 1597 CMA       | Las campañas seleúcidas transforman el litoral, el Acueducto y el equilibrio de Iserb.                                        |
 | Edad del Enjendaramiento      | 1415 DE a 2097 DE · 1597 CMA a 2279 CMA | Reapertura de Primordia al mundo, auge comercial y expansión de la magia de memoria.                                             |
-| Edad de los Canales           | Imperial 2097 a 2662 · Iserbita 2279 a 2844 | Reapertura de rutas hídricas, industrialización y expansión de la [[Compañía Del Canal Occidental (C.C.O.)]].                 |
+| Edad de la Calma              | Imperial 2097 a 2662 · Iserbita 2279 a 2844 | Uso de magia antimemética y de memoria, que vuelve misteriosas grandes partes del período para la historia.                    |
 | Edad de los Principados       | Imperial 2662 a 3033 · Iserbita 2844 a 3215 | Orden inestable de ciudades, dinastías, compañías y potencias marítimas.                                                      |
 
-## FIN DE LA SEGUNDA ERA
+---
+
+## Fin de la Segunda Era
+
+La Segunda Era concluye con la [[La Guerra Por La Vida|Guerra por la Vida]], la caída de los Muros Albinos y la reapertura de [[Iserb]]. Los siglos posteriores combinan reconstrucción, conflictos entre poderes sucesores y la lenta formación de un nuevo orden regional.
 
 ### Los años de la Postvida · c. 482–183 AE · c. 300–1 MA
 
@@ -51,9 +55,11 @@ Tras la Guerra por la Vida, los restos de las instituciones y conocimientos supe
 | c. 280 AE · c. 98 MA | <span style="color: #c73e3a">● Guerra</span> | **[[Tercera Guerra de las Lágrimas]]** | Los poderes sucesores luchan por las antiguas capitales y las rutas costeras. |
 | c. 220 AE · c. 38 MA | <span style="color: #c73e3a">● Destrucción</span> | **[[Destrucción de Wën-Wawiëska]]** | La ciudad de los mensajeros es destruida en los conflictos posteriores a los Estados Sagrados. |
 
-### Los años de la Reapertura y la Reconstrucción · 182 AE–0 DE · 0–182 CMA
-
 </details>
+
+---
+
+### Los años de la Reapertura y la Reconstrucción · 182 AE–0 DE · 0–182 CMA
 
 <details>
 <summary>Ver cronología de la Reapertura y la Reconstrucción</summary>
@@ -68,9 +74,11 @@ La caída de los Muros Albinos abre Iserb al mundo y permite restaurar reglas de
 | 80 AE · 102 CMA | <span style="color: #7557a8">● Instituciones</span> | **[[Primera Asamblea del WënWïtanWämot]]** | Las ciudades convierten la negociación en una cámara regular presidida por las Mahans. |
 | 0 DE · 182 CMA | <span style="color: #7557a8">● Sucesión</span> | **[[Nacimiento de Haton Seleuce]]** | El nacimiento del futuro Emperador Seleuce inaugura el Calendario Imperial. |
 
-### Los años de la Primordia Inter Bellum · 82 AE–800 DE · 100–982 CMA
-
 </details>
+
+---
+
+### Los años de la Primordia Inter Bellum · 82 AE–800 DE · 100–982 CMA
 
 <details>
 <summary>Ver cronología de la Primordia Inter Bellum</summary>
@@ -87,9 +95,11 @@ La relativa paz de la era convive con desurbanización, esclavitud, rivalidades 
 | c. 690 DE · c. 872 CMA | <span style="color: #7557a8">● Religión</span> | **[[Crisis del Segmento de Simiente]]** | La alianza con las serpientes de agua provoca persecuciones que casi borran el culto de varias costas. |
 | c. 760 DE · c. 942 CMA | <span style="color: #c73e3a">● Seguridad</span> | **Crisis del Lejano Este** | La llegada de flotas y colonos divide al Wämot e impide una defensa regional efectiva. |
 
-### Los años de la Primordia Imperial · 800–1415 DE · 982–1597 CMA
-
 </details>
+
+---
+
+### Los años de la Primordia Imperial · 800–1415 DE · 982–1597 CMA
 
 <details>
 <summary>Ver cronología de la Primordia Imperial</summary>
@@ -115,31 +125,29 @@ Las campañas de Seleuce transforman ciudades, rutas y poderes del litoral; la p
 
 </details>
 
-## EDAD DEL ENJENDRAMIENTO (1415 DE a 2097 DE · 1597 CMA a 2279 CMA)
+---
+
+## Edad del Enjendaramiento (1415 DE a 2097 DE · 1597 CMA a 2279 CMA)
 
 Tras las guerras imperiales, Primordia vuelve a abrir sus rutas y contactos al resto del mundo. El comercio crece y [[La Cofradía]] recupera poder como red de información y apoyo mercantil. La época también queda marcada por la magia de memoria: su uso frecuente, pese a la [[CHISPA..|CHISPA]], borra registros, altera recuerdos y hace desaparecer conocimientos.
 
 ---
 
-## EDAD DE LOS CANALES (2097 DE a 2662 DE · 2279 CMA a 2844 CMA)
+## Edad de la Calma (2097 DE a 2662 DE · 2279 CMA a 2844 CMA)
+
+La Edad de la Calma está marcada por el uso de magia antimemética y de memoria. Sus efectos borran, alteran o vuelven inaccesibles numerosos registros, por lo que grandes partes del período siguen siendo un misterio para la historia.
 
 ---
 
-## LA EDAD DEL ALBEDRÍO PRESBURRIANO
+## Edad del Albedrío Presburriano
+
+Este período antecede a la caída del Imperio Presburriano y prepara la fragmentación política posterior del Mar del Albedrío.
 
 ---
 
-## LA EDAD DE LOS PRINCIPADOS - El último siglo del Albedrío
-
----
+## Edad de los Principados (2662 DE a 3033 DE · 2844 CMA a 3215 CMA)
 
 Tras la Caída del Imperio Presburriano el vacío de poder deja el Mar del Albedrío  dividido entre principados, compañías comerciales, ciudades y facciones piratas sin una autoridad capaz de imponer un orden común. La expansión de la C.C.O., el debilitamiento del WënWïtanWämot y las revoluciones de Pekkia convierten el periodo en una larga disputa por las rutas, la soberanía y el control de las instituciones.
-
-### 2975–2985 DE · 3157–3167 CMA — El Ocaso del Norte
-
-La contracción del comercio presburriano y el derrumbe de la industria maderera desplazan el peso económico hacia el sur, mientras la ausencia de una potencia naval dominante favorece a la piratería y revela la parálisis del WënWïtanWämot.
-
-#### Los años del Ocaso del Norte · 2975–2985 DE · 3157–3167 CMA
 
 <details>
 <summary>Ver cronología del Ocaso del Norte</summary>
@@ -158,9 +166,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 2984 DE · 3166 CMA | <span style="color: #c73e3a">● Seguridad</span> | **La Liga de los Capitanes Libres** | Armadores y capitanes mercenarios ofrecen sus fuerzas a quien pueda financiarlos. |
 | 2985 DE · 3167 CMA | <span style="color: #7557a8">● Política</span> | **La Petición de los Círculos** | La Corona rechaza reformas fiscales y de representación, agravando su conflicto con el Círculo. |
 
-#### Los años de la Crisis de Pekkia · 2985–3000 DE · 3167–3182 CMA
-
 </details>
+
+---
+
+### Los años de la Crisis de Pekkia · 2985-3000 DE · 3167-3182 CMA
 
 <details>
 <summary>Ver cronología de la Crisis de Pekkia</summary>
@@ -180,9 +190,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 2998 DE · 3180 CMA | <span style="color: #7557a8">● Política</span> | **Ejecución de la Princesa de Pekkia** | La ejecución de la Princesa rompe definitivamente la dinastía real. |
 | 2999 DE · 3181 CMA | <span style="color: #c73e3a">● Revolución</span> | **El Golpe del Segundo Rey** | Gonsalo unifica temporalmente a las facciones piratas y encabeza una nueva revolución. |
 
-#### Los años de la Fragmentación del Albedrío · 3000–3015 DE · 3182–3197 CMA
-
 </details>
+
+---
+
+### Los años de la Fragmentación del Albedrío · 3000-3015 DE · 3182-3197 CMA
 
 <details>
 <summary>Ver cronología de la Fragmentación del Albedrío</summary>
@@ -201,9 +213,11 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 3012 DE · 3194 CMA | <span style="color: #2d7f9d">● Diplomacia</span> | **La Cuestión Pirata en el Wämot** | Los principados fracasan al intentar acordar una intervención conjunta. |
 | 3014 DE · 3196 CMA | <span style="color: #c98215">● Crisis</span> | **La Crisis de las Peregrinaciones** | La protección de las rutas religiosas enfrenta al Magistratus con varias ciudades. |
 
-#### Los años de la Restauración de los Principados · 3015–3025 DE · 3197–3207 CMA
-
 </details>
+
+---
+
+### Los años de la Restauración de los Principados · 3015-3025 DE · 3197-3207 CMA
 
 <details>
 <summary>Ver cronología de la Restauración de los Principados</summary>
@@ -224,8 +238,9 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 3030 DE · 3212 CMA | <span style="color: #7557a8">● Política</span> | **La Expulsión de Mäp del Wämot** | Mäp pierde su condición de observador y profundiza su aislamiento diplomático. |
 
 </details>
+---
 
-## 3033 DE / 3215 CMA — Los años de la Crisis del Orden Anélico
+### Los años de la Crisis del Orden Anélico · 3033 DE / 3215 CMA
 
 <details>
 <summary>Ver cronología de la Crisis del Orden Anélico</summary>
@@ -252,28 +267,3 @@ La contracción del comercio presburriano y el derrumbe de la industria maderera
 | 3033 DE · 3215 CMA | <span style="color: #2d7f9d">● Diplomacia</span>    | **La Gran Asamblea de Waipo**                  | Las princesas debaten la guerra, los privilegios nobiliarios y el futuro del Wämot.                                                |
 
 </details>
-
-## Plantilla para nuevos acontecimientos
-
-Cada acontecimiento de la Segunda Campaña debe llevar ambas fechas:
-
-```yaml
-event_type: Acontecimiento histórico
-calendar_era: imperial
-calendar_year: # año imperial
-iserbita_year: # año iserbita: calendar_year + 182
-calendar_month:
-calendar_day:
-campana: Segunda Campaña
-timeline: Calendario Imperial
-```
-
-## Véase también
-
-- [[HISTORIA PRIMORDIA]]
-- [[Historia del Albedrío]]
-- [[La Guerra Por La Vida]]
-- [[Acuerdos Anélicos]]
-- [[Canal Occidental]]
-- [[WënWïtanWämot]]
-- [[Tabla de Enventos]]
