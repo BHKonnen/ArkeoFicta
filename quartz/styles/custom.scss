@@ -5,3 +5,64 @@
 }
 
 // put your custom CSS here!
+
+// ArkeoFicta: dark palette, above the installed theme's CSS layers.
+:root[saved-theme="dark"] {
+  color-scheme: dark;
+  --light: #080b12;
+  --lightgray: #26344d;
+  --gray: #a0a9d9;
+  --darkgray: #d6deec;
+  --dark: #8bafe8;
+  --secondary: #88b9ff;
+  --tertiary: #a8c6f5;
+  --background-primary: #080b12;
+  --background-primary-alt: #080b12;
+  --background-secondary: #080b12;
+  --background-secondary-alt: #080b12;
+  --background-modifier-border: #26344d;
+  --text-normal: #d6deec;
+  --text-muted: #a0a9d9;
+  --text-faint: #a0a9d9;
+  --h1-color: #8bafe8;
+  --h2-color: #a8c6f5;
+  --h3-color: #a8c6f5;
+  --h4-color: #a8c6f5;
+  --h5-color: #a8c6f5;
+  --h6-color: #a8c6f5;
+  --link-color: #88b9ff;
+  --link-external-color: #88b9ff;
+  --link-color-hover: #a8c6f5;
+  --link-external-color-hover: #a8c6f5;
+
+  body {
+    background-color: var(--light);
+    color: var(--darkgray);
+  }
+
+  h1,
+  .article-title,
+  .page-title {
+    color: var(--h1-color);
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--h2-color);
+  }
+
+  a:link {
+    color: var(--link-color);
+  }
+
+  a:visited {
+    color: #a0a9d9;
+  }
+
+  a:hover {
+    color: var(--link-color-hover);
+  }
+}

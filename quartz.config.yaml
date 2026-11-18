@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-ES
   baseUrl: bhkonnen.github.io/ArkeoFicta
   ignorePatterns:
     - private
@@ -31,15 +31,15 @@ configuration:
         highlight: rgba(0, 190, 255, 0.14)
         textHighlight: "#35d6ff55"
       darkMode:
-        light: "#000000"
-        lightgray: "#000000"
-        gray: "#555555"
-        darkgray: "#b9e9ff"
-        dark: "#ffffff"
-        secondary: "#22c7ff"
-        tertiary: "#66ddff"
-        highlight: rgba(34, 199, 255, 0.16)
-        textHighlight: "#22c7ff66"
+        light: "#080B12"
+        lightgray: "#26344D"
+        gray: "#A0A9D9"
+        darkgray: "#D6DEEC"
+        dark: "#8BAFE8"
+        secondary: "#88B9FF"
+        tertiary: "#A8C6F5"
+        highlight: rgba(136, 185, 255, 0.14)
+        textHighlight: "#88B9FF55"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -106,7 +106,7 @@ plugins:
     enabled: false
     order: 91
   - source: "@quartz-community/roam"
-    enabled: false
+    enabled: true
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
@@ -284,6 +284,10 @@ plugins:
       exportPadding: 20
     order: 50
   - source: "@quartz-community/obsidian-plugin-ttrpg-tools-maps"
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:jerlendds/quartz-md-graphs
     enabled: true
     order: 50
     options: {}
