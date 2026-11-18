@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.615Z
-modified: 2026-11-06T17:14:13.949Z
-published: 2026-11-06T17:14:13.949Z
+modified: 2026-11-18T16:09:55.455Z
+published: 2026-11-18T16:09:55.455Z
 character_type: minor
 estado_vital: desconocido
 campana:
@@ -16,17 +16,37 @@ related_events: []
 related_entries: []
 ---
 
-### Ficha de personaje\*\*
+## Ficha de personaje
 
-| Atributo                      | Detalle                                                                                                         |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Nombre completo**           | Acerola Horizonte Puñal Bajo el Corazón / Señora Acerola Horizonte [[Espada]] Sobre el Corazón                      |
-| **Ocupación / Rol**           | Cazapiratas, vapiro a tiempo completo                                                                           |
-| **Naturaleza**                | Vampira                                                                                                         |
-| **Estatus legal**             | En búsqueda y captura (_SOLO INFORMACIÓN_, ¡NO CONFRONTAR!)                                                     |
-| **Recompensa**                | 500 piezas de oro por información sólida de sus actividades o paradero; 5 torres de [[Iserb]] si lleva a su captura |
-| **Última ubicación conocida** | Brotante                                                                                                        |
-| **Seguidores conocidos**      | [[Eritzabez]] (secretaria) y un Demonio sin nombre                                                                  |
+> [!infobox]
+>
+> # Acerola Horizonte Puñal Sobre el Corazón
+>
+> ![[TEMPLATES/SAVE FOLDER/8fedabb8-a6f7-462d-9dbc-d05b68fce27d.png|240]]
+>
+> ###### Identidad
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Alias** | Puñal Bajo el Corazón; Espada Sobre el Corazón |
+> | **Ocupación** | Cazapiratas; vampira a tiempo completo |
+> | **Naturaleza** | Vampira |
+> | **Última ubicación conocida** | Brotante |
+>
+> ###### Situación
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Estatus legal** | En búsqueda y captura. Solo información; no confrontar. |
+> | **Recompensa** | 500 piezas de oro por información fiable; 5 torres de [[Iserb]] si conduce a su captura. |
+>
+> ###### Vínculos
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Seguidores conocidos** | [[Eritzabez]] y un demonio sin nombre |
+> | **Grupos relacionados** | [[Las Gamakas]]; [[La Banda del Segundo Rey]] |
+> | **Relación conocida** | Madre de [[Tupak El Genasi]] |
 
 ### **Descripción general**
 

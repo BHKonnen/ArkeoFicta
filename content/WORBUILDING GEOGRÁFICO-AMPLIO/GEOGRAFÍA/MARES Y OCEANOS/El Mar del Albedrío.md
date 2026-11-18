@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.769Z
-modified: 2026-11-18T15:47:20.796Z
-published: 2026-11-18T15:47:20.796Z
+modified: 2026-11-18T15:58:21.170Z
+published: 2026-11-18T15:58:21.170Z
 resumen: Gran mar de [[Primordia]] cuyas aguas desafían la gravedad.
 location_type: mar
 parent_location: "[[Primordia]]"
@@ -10,11 +10,13 @@ campana:
   - segunda-campaña
 ---
 
-```custom-frames
-frame: Albedrío Mapa
-style: height: 600px;
-urlSuffix: #SegundaCampaña 
-```
+<iframe
+  src="https://miro.com/app/live-embed/uXjVHKMmLQc=/?autoplay=true"
+  width="100%"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 ## Introducción
 
@@ -143,11 +145,3 @@ Los [[Los Piratas Verdes]] mantienen además su base en [[Tarrade]] y controlan 
 En 3033, el Albedrío atraviesa una crisis general. La guerra entre la [[Compañía Del Canal Occidental (C.C.O.)|C.C.O.]] y el Segmento de Sangre, el deterioro de las rutas y la inestabilidad climática han puesto presión sobre el abastecimiento y la navegación.
 
 La caída del antiguo régimen de Mäp dio paso a una república dirigida por los Círculos Revolucionarios en [[Puerto de Mäp]], reconocida como observadora por el Wämot. Al mismo tiempo, el motín de Iserlohn y las revelaciones posteriores han debilitado la confianza en el [[Templus Magistratus]], mientras las facciones piratas conservan o amplían su control sobre distintos puertos y pecios.
-
-<iframe
-  src="https://miro.com/app/live-embed/uXjVHKMmLQc=/?autoplay=true"
-  width="100%"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
