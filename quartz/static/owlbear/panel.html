@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Arkeo Ficta</title>
+    <link rel="stylesheet" href="./panel.css" />
+    <script type="module" src="./integration.js?v=0.1.0"></script>
+  </head>
+  <body>
+    <nav aria-label="Controles de la wiki">
+      <a href="../../" target="wiki">Inicio</a>
+      <button id="share" hidden disabled>Compartir página</button>
+      <button id="open-shared" disabled>Abrir página compartida</button>
+    </nav>
+    <p id="status" role="status">Conectando con Owlbear Rodeo…</p>
+    <iframe id="wiki" name="wiki" title="Wiki de Arkeo Ficta" src="../../"></iframe>
+  </body>
+</html>
