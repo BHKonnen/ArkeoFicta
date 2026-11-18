@@ -1,0 +1,17 @@
+{
+  "name": "Arkeo Ficta",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "description": "Consulta Arkeo Ficta y comparte páginas con tu grupo en Owlbear Rodeo.",
+  "author": "BHKonnen",
+  "icon": "https://bhkonnen.github.io/ArkeoFicta/static/icon.png",
+  "homepage_url": "https://bhkonnen.github.io/ArkeoFicta/",
+  "background_url": "https://bhkonnen.github.io/ArkeoFicta/static/owlbear/background.html?v=0.1.0",
+  "action": {
+    "title": "Arkeo Ficta",
+    "icon": "https://bhkonnen.github.io/ArkeoFicta/static/icon.png",
+    "popover": "https://bhkonnen.github.io/ArkeoFicta/static/owlbear/panel.html?v=0.1.0",
+    "width": 600,
+    "height": 700
+  }
+}
