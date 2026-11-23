@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Amarantha Alabastro Espiral
 created: 2026-09-21T21:31:22.316Z
-modified: 2026-11-12T13:19:17.761Z
-published: 2026-11-12T13:19:17.761Z
+modified: 2026-11-23T12:43:23.825Z
+published: 2026-11-23T12:43:23.825Z
 character_type: Mayor
 estado_vital: desconocido
 campana:
@@ -21,6 +23,21 @@ related_groups:
   - "[[Compañía Del Canal Occidental (C.C.O.)]]"
   - "[[El Segmento de Sangre]]"
 ---
+
+## Ficha de personaje
+
+> [!infobox]
+>
+> # Princesa Amarantha Alabastro Espiral
+>
+> ![[TEMPLATES/SAVE FOLDER/3d23aa86-d6b5-4084-9cd7-db15e9991977.png|240]]
+>
+> ###### Identidad
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Estado vital** | desconocido |
+> | **Tipo** | Mayor |
 
 ### Ficha de personaje
 

@@ -4,8 +4,8 @@ aliases:
   - Fan-Gaël
   - La Ciudad de los Túneles
 created: 2026-11-13T11:04:07.228Z
-modified: 2026-11-19T13:21:57.409Z
-published: 2026-11-19T13:21:57.409Z
+modified: 2026-11-21T19:37:18.125Z
+published: 2026-11-21T19:37:18.125Z
 resumen: Puerto menor del Albedrío pendiente de desarrollo.
 topic: geobiologia
 multi_tag:
@@ -23,6 +23,7 @@ related_groups:
   - "[[Iserb]]"
 related_characters:
   - "[[Etna Komneme]]"
+location_type: city
 ---
 
 > [!infobox]
@@ -37,7 +38,7 @@ related_characters:
 > | **Región** | Costa de la Península de Iserb |
 > | **Gobernante** | Etna Komneme |
 > | **Tipo de gobierno** | Archiardunado asociado a Iserb |
-> | **Grupos relacionados** | [[WORBUILDING GENTE/ORGANIZACIONES RELIGIOSAS/Templos Magistratus.md|Templos Magistratus]],[[Iserb.md|Iserb]] |
+> | **Grupos relacionados** | [[Templos Magistratus|Templos Magistratus]],[[WORBUILDING LOCALIZACIONES/PAISES/Iserb.md|Iserb]] |
 > | **PNJ relacionados** | [[Etna Komneme|Etna Komneme]] |
 
 ## Resumen

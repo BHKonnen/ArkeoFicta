@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - El Mar Extraño
+  - Mar Extraño
 created: 2026-02-08T17:05:38.769Z
-modified: 2026-11-18T15:58:21.170Z
-published: 2026-11-18T15:58:21.170Z
+modified: 2026-11-23T13:28:00.019Z
+published: 2026-11-23T13:28:00.019Z
 resumen: Gran mar de [[Primordia]] cuyas aguas desafían la gravedad.
 location_type: mar
 parent_location: "[[Primordia]]"
@@ -60,51 +63,24 @@ El **noroeste** es la región más seca, debido a la influencia de los [[Montes 
 
 En el interior del Mar Extraño el clima fluctúa tanto como su nombre. Se han registrado fenómenos completamente fuera de lugar para estas latitudes: **nevadas, icebergs, huracanes, sequías, calmas absolutas y cambios bruscos de temperatura**. Estos fenómenos pueden alcanzar las costas, aunque suelen hacerlo de forma mucho más moderada.
 
-## Subregiones/ Costas
+## Subregiones y costas
 
-El Albedrío puede dividirse en **subregiones según la costa a la que pertenecen**, cada una con sus propios nombres y particularidades. La principal distinción es cultural: existe una sutíl diferencia entre los pueblos del **norte** y los del **sur**.
+El Albedrío puede dividirse en subregiones según sus costas, cada una con nombres y particularidades propios. Entre los pueblos del norte y del sur existe también una sutil distinción cultural.
 
-Más allá de las costas se encuentra el **Mar del Albedrío Inferior**, habitado tanto por comunidades que viven tanto en sus aguas como por debajo de ellas. El sentido horario las regione son
+Más allá de las costas se encuentra el **Mar del Albedrío Inferior**, habitado por comunidades que viven tanto en sus aguas como por debajo de ellas. Las regiones costeras se presentan a continuación en sentido horario:
 
-### El Golfo de Pikunpalde
-
-El extremo norte del Albedrío, dominado por aguas tranquilas y muros de agua de entre 200 y 500 metros de altura. Es la zona más seca de la región y cuenta con pocos asentamientos debido a la pobreza del suelo y lo agreste del terreno.
-
-### La Alta Costa Norte
-
-Las costas elevadas del oeste, donde los muros de agua alcanzan algunas de sus mayores alturas. La región está dividida en dos por la [[Península de las Brujas]]. Su mitad norte permanece prácticamente deshabitada, con la excepción del reciente asentamiento abandonado de [[Puerto Nuevo]].
-
-### La Península de las Brujas
-
-Una gran península situada en el oeste del Albedrío, frente a la [[Península de Iserb]]. Alberga la ciudad de [[Wen-Waipo]] y, junto al [[Bosque de la Tumba de las Lanzas]] y las selvas aledañas constituye una de las regiones más antiguas y salvajes del Albedrío.
-
-### La Alta Costa Sur
-
-Menos agreste y selvática que su contraparte septentrional. En la Alta Costa sur el mar se encuentra con la [[Llanura del Relincho]] y [[El Acueducto]]. Esta posición la convierte en una de las principales puertas de entrada a la región y una de las más pobladas.
-
-### La Costa de Pantarrota
-
-Una de las zonas más inestables y peor entendidas del Albedrío, situada junto a los [[Montes Pantarota]]. Su terreno cambiante y sus condiciones impredecibles han impedido el establecimiento de asentamientos permanentes.
-
-### Las Orillas Ponzoñosas
-
-Situadas al sur del Albedrío, sus muros de agua apenas se elevan por encima del terreno circundante. La región está dominada por multitud de piscinas, lagos, humedales y cauces serpenteantes. Es una de las zonas que más ha camiado con los siglos.
-
-### La Verde Bahía
-
-Famosa por sus aguas verdosas, sus manglares y sus resguardos, es una de las regiones de mayor valor estratégico del Albedrío. La bahía está además protegida por la isla de [[Tarrade]] y limita al norte con la irregular Costa de Mäp.
-
-### La Península de Iserb
-
-Una región extremadamente accidentada, dominada por montañas, suelos pobres y costas plagadas de acantilados similares a los de [[Mäp]]. También recibe buena parte de los fenómenos climáticos más extremos del Albedrío. En su extremo se encuentra la [[Isla de Iserb]], situada prácticamente en el centro del mar.
-
-### El Archipiélago de las Vituperinas
-
-Una extensa cadena de islas y bancos de arena que se prolonga desde  Iserb hasta el [[Golfo de Pikunpalde]] terminando en la [[Bahía de la Fortuna]]. El archipiélago separa las aguas abiertas del Albedrío de la [[Laguna de Nadie]].
-
-### Lagunas de Nadie
-
-Una extensa región de playas y aguas poco profundas, alimentada por tres grandes ríos. Sus aguas tranquilas y la abundancia de terreno habitable han favorecido la aparición de numerosos asentamientos.
+| Región | Resumen |
+| --- | --- |
+| **Golfo de Pikunpalde** | Extremo norte de aguas tranquilas y muros de agua de entre 200 y 500 metros. Es la zona más seca y tiene pocos asentamientos por la pobreza del suelo y lo agreste del terreno. |
+| **Alta Costa Norte** | Costas elevadas del oeste, con algunos de los mayores muros de agua. La [[Península de las Brujas]] divide la región; su mitad norte está prácticamente deshabitada, salvo por el reciente asentamiento abandonado de [[Puerto Nuevo]]. |
+| **Península de las Brujas** | Gran península occidental frente a la [[Península de Iserb]]. Alberga [[Wen-Waipo]] y, junto con el [[Bosque de la Tumba de las Lanzas]] y las selvas aledañas, forma una de las regiones más antiguas y salvajes del Albedrío. |
+| **Alta Costa Sur** | Menos agreste y selvática que la costa norte. El mar se encuentra aquí con la [[Llanura del Relincho]] y [[El Acueducto]], haciendo de ella una de las principales puertas de entrada y una de las regiones más pobladas. |
+| **Costa de Pantarrota** | Zona inestable y poco conocida junto a los [[Montes Pantarota]]. Su terreno cambiante y sus condiciones impredecibles han impedido asentamientos permanentes. |
+| **Orillas Ponzoñosas** | Región meridional de piscinas, lagos, humedales y cauces serpenteantes. Sus muros de agua apenas se elevan sobre el terreno y su paisaje ha cambiado mucho con los siglos. |
+| **Verde Bahía** | Región estratégica de aguas verdosas, manglares y resguardos. Está protegida por la isla de [[Tarrade]] y limita al norte con la Costa de Mäp. |
+| **Península de Iserb** | Región accidentada de montañas, suelos pobres y acantilados semejantes a los de [[Mäp]], expuesta a fenómenos climáticos extremos. En su extremo se encuentra la [[Isla de Iserb]], casi en el centro del mar. |
+| **Archipiélago de las Vituperinas** | Cadena de islas y bancos de arena que se prolonga desde Iserb hasta el [[Golfo de Pikunpalde]] y la [[Bahía de la Fortuna]]. Separa las aguas abiertas del Albedrío de la [[Laguna de Nadie]]. |
+| **Lagunas de Nadie** | Playas y aguas poco profundas alimentadas por tres grandes ríos. Sus aguas tranquilas y la abundancia de terreno habitable han favorecido numerosos asentamientos. |
 
 ## Ciudades y asentamientos
 

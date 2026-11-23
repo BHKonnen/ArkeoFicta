@@ -1,8 +1,13 @@
 ---
 publish: true
+aliases:
+  - Los Rojos
+  - los Piropiratas
+  - Pyropiratas
+  - Píropiratas
 created: 2026-09-21T21:31:26.722Z
-modified: 2026-11-12T16:42:27.081Z
-published: 2026-11-12T16:42:27.081Z
+modified: 2026-11-23T13:24:26.308Z
+published: 2026-11-23T13:24:26.308Z
 resumen: Grupo de violentos piratas del mar del albedrío
 topic: sociedad
 multi_tag:
@@ -20,14 +25,14 @@ related_groups:
 
 ---
 
-| Atributo | Información |
-| --- | --- |
-| **Nombre** | Piratas Rojos |
-| **Tipo** | Banda pirata corsaria; también llamados Pyropiratas |
-| **Liderazgo conocido** | [[Capitana Lady Isbel Bellona]] y [[Akkadan the Red- The Bound Demon]] |
-| **Navegante conocida** | [[Aylira Masticadientes]] |
-| **Ámbito de actividad** | [[Mar del Albedrío]] |
-| **Actividad pública reciente** | Incendio masivo posterior al atentado de Brotante |
+| Atributo                       | Información                                                            |
+| ------------------------------ | ---------------------------------------------------------------------- |
+| **Nombre**                     | Piratas Rojos                                                          |
+| **Tipo**                       | Banda pirata corsaria; también llamados Pyropiratas                    |
+| **Liderazgo conocido**         | [[Capitana Lady Isbel Bellona]] y [[Akkadan the Red- The Bound Demon]] |
+| **Navegante conocida**         | [[Aylira Masticadientes]]                                              |
+| **Ámbito de actividad**        | [[Mar del Albedrío]]                                                   |
+| **Actividad pública reciente** | Incendio masivo posterior al atentado de Brotante                      |
 
 ---
 
@@ -68,3 +73,8 @@ Se especializan en magia de fuego, pólvora y pistolas. Son descritos como una o
 Anteriormente llamados **la Sonrisa Roja**, proceden de una antigua tripulación amotinada. El motín es uno de los derechos reconocidos de una tripulación frente a un capitán inepto; Zohair es considerado su patrón, de ahí el nombre de la Bendición de Zohair.
 
 Véase también
+
+### RUMORES
+
+- Los Piropiratas han eliminado o asimilado por la fuerza a quienes se atreven a utilizar el mismo color.
+- Bellona es descrita como la capitana más joven de la historia de Primordia, violenta, irresponsable e impulsiva; suele encontrarse en el frente de batalla.

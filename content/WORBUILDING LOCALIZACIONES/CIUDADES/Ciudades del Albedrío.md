@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-13T10:37:12.710Z
-modified: 2026-11-18T15:06:18.769Z
-published: 2026-11-18T15:06:18.769Z
+modified: 2026-11-23T14:12:10.787Z
+published: 2026-11-23T14:12:10.787Z
 resumen: Ciudades del Mar del Albedrío con nota propia en el vault.
 topic: geobiologia
 multi_tag:
@@ -14,7 +14,7 @@ campana:
 
 # Ciudades del Albedrío
 
-[[Iserb]] recoge el lugar religioso y sus instituciones; [[La Ciudad de Iserb]] describe su geografía y administración civil. Todas las localidades de las tablas tienen ahora una nota propia enlazada desde la navegación inferior.
+[[Iserb]] recoge el Estado y sus instituciones; [[La Ciudad de Iserb]] describe su geografía y administración civil. Algunas localidades enlazadas todavía tienen fichas incompletas o pendientes de crear.
 
 ## Puertos mayores
 
@@ -22,7 +22,7 @@ campana:
 | ---------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | [[La Ciudad de Iserb]] | [[Círculo de La Ciudad de Iserb]] y el Dodecédron                                              | República teocrática                          | Isla de Iserb, al oeste, en el extremo de la península de El Camino. Unos 11 millones de habitantes.     | Peregrinación, reliquias y bienes sagrados.                    | Principal ciudad del Mar del Albedrío, considerada el Centro del Universo y sede del Templo Ecuménico.            |
 | [[Puerto Esmeralda]]   | [[Princesa Olruth Esmeralda Waripe]]                                                           | Principado integrante del [[Wën Wïtan Wämot]] | Norte del Albedrío, en las crestas de la Gran Antibahía. 750 000 habitantes.                             | Barcos, mapas, pieles, telas y maderas del norte.              | Antigua Wën-Waripe y gran puerto astillero del norte, conocido como la Ciudad del Guardián del Norte.             |
-| [[Wen-Waipo]]          | [[Princesa Amarantha Alabastro Espiral]]                                                       | Principado integrante del [[Wën Wïtan Wämot]] | Este del Albedrío, a media Alta Costa, tras el bosque de la Tumba de las Lanzas. Población sin precisar. | Sin precisar.                                                  | Segunda ciudad más antigua del Albedrío, la Ciudad de las Brujas, reconocible por sus menhires de jade.           |
+| [[Wen-Waipo]]          | [[Princesa Amarantha Alabastro Espiral]]                                                       | Principado integrante del [[Wën Wïtan Wämot]] | Península de las Brujas, en la Alta Costa. Aproximadamente 150.000 habitantes. | Sin precisar. | Ciudad de las Brujas, reconocible por sus menhires de jade. |
 | [[Brotante Prima]]     | Junta Directiva de la [[Compañía Del Canal Occidental (C.C.O.)]]; CEO Duxe D4-V-1D de Sorgente | Compañía-Estado                               | Suroeste del Albedrío, al comienzo del Acueducto. Alrededor de 1 millón de habitantes.                   | Maquinaria pesada, autómatas, herramientas y armamento.        | Puerto clave entre la Bahía de las Repúblicas y el Albedrío, y capital de la C.C.O.                               |
 | [[SORGENTE PRIMA]]     | El Duxe, Axel / A13-X                                                                          | Administración ejecutiva de la C.C.O.         | Extremo occidental del Acueducto. Población sin precisar.                                                | Industria mecanizada, transporte y manufactura.                | Co-capital terrestre e industrial de la C.C.O., levantada alrededor de una catarata que mueve su infraestructura. |
 | [[Pekkia]]             | Autoridad pirata no especificada                                                               | República pirata del Libre Albedrío           | Suroeste del Albedrío, en el estuario del río Pekkia. Entre 300 000 y 450 000 habitantes.                | Piratería, alcohol, contrabando, historias e ideas peligrosas. | Puerto fluvial y centro de la piratería del Mar Extraño.                                                          |
@@ -31,7 +31,7 @@ campana:
 
 | Ciudad            | Gobernante o autoridad          | Sistema político                                                        | Miniresumen                                                                                                            |
 | ----------------- | ------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [[Wën Wäbat]]     | Sin especificar                 | Sin especificar                                                         | La Ciudad de los Venenos del Sur.                                                                                      |
+| [[Wën Wäbat]]     | [[Princesa Agripina Jade de la Cruz]] | Principado integrante del [[Wën Wïtan Wämot]] | Ciudad de los Venenos, construida en la desembocadura del río Atrábilis. |
 | [[Tesonora]]      | [[Compañía Del Canal Occidental (C.C.O.)\|C.C.O.]] | Puerto corporativo de la C.C.O.                         | Puerto menor bajo control de la Compañía del Canal Occidental.                                                         |
 | [[Nuva Mosssa]]   | [[Los Piratas Verdes]]          | Puerto bajo control pirata                                              | Puerto menor controlado por los Piratas Verdes.                                                                        |
 | [[Nemmo]]         | República Pirata de Nemmo       | República pirata                                                        | Puerto menor bajo la autoridad de la República Pirata de Nemmo.                                                        |
@@ -39,7 +39,7 @@ campana:
 | [[Wën-Wareni]]    | [[Princesa Olga Oro Oloid]]     | Principado de la dinastía Oro Oloid, integrante del [[Wën Wïtan Wämot]] | Ciudad de los Puentes y del pontazgo, sede tradicional de las asambleas extraordinarias del Wämot.                     |
 | [[Puerto de Mäp]] | Círculos Revolucionarios        | República de Puerto de Mäp, observadora del Wämot                       | Puerto controlado por los Círculos Revolucionarios tras la caída de Reocardo de Mäp.                                   |
 | [[Fan-Ankohl]]    | [[Archiardunado de Fan Ankohl]] | Archiardunado observador del Wämot                                      | Archiardunado insular asociado a Iserb y representado como observador en el Wämot.                                     |
-| [[Fan-Gaol]]      | Sin especificar                 | Sin especificar                                                         | Puerto menor pendiente de desarrollo en las fuentes actuales.                                                          |
+| [[Fan-Gaol]]      | [[Etna Komneme]]                 | Archiardunado asociado a Iserb                                          | Ciudad fortificada de túneles que controla una entrada a la península de Iserb. |
 | [[Tarrade]]       | [[Gran Capitán Barba Ciprés]]   | Base bajo control pirata                                                | Isla y base de los [[Los Piratas Verdes]], desde la que ejercen influencia sobre la Bahía Verde y el sur del Albedrío. |
 
 ## Los pecios

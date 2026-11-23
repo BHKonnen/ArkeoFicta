@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Fan-Ankol
 created: 2026-11-13T11:04:07.225Z
-modified: 2026-11-19T13:21:28.438Z
-published: 2026-11-19T13:21:28.438Z
+modified: 2026-11-21T19:38:11.241Z
+published: 2026-11-21T19:38:11.241Z
 resumen: Archiardunado insular asociado a Iserb y observador del Wämot.
 topic: geobiologia
 multi_tag:
@@ -22,6 +22,7 @@ related_groups:
   - "[[Wën Wïtan Wämot]]"
 related_characters:
   - "[[Kanthan Hen-Zansen]]"
+location_type: city
 ---
 
 > [!infobox]
@@ -36,7 +37,7 @@ related_characters:
 > | **Región** | Archipiélago de cuatro islas del Albedrío |
 > | **Gobernante** | Kanthan Hen-Zansen y el Clan Hen-Zansen |
 > | **Tipo de gobierno** | Archiardunado asociado a [[Iserb]] y observador del [[Wën Wïtan Wämot]] |
-> | **Grupos relacionados** | [[Iserb.md|Iserb]],[[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Wën Wïtan Wämot.md|Wën Wïtan Wämot]] |
+> | **Grupos relacionados** | [[WORBUILDING LOCALIZACIONES/PAISES/Iserb.md|Iserb]],[[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Wën Wïtan Wämot.md|Wën Wïtan Wämot]] |
 > | **PNJ relacionados** | [[Kanthan Hen-Zansen|Kanthan Hen-Zansen]] |
 
 ## Resumen

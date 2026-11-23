@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Piratas Verdes
+  - Los Verdes
 created: 2026-09-21T21:31:12.814Z
-modified: 2026-11-12T16:43:46.560Z
-published: 2026-11-12T16:43:46.560Z
+modified: 2026-11-23T13:21:08.804Z
+published: 2026-11-23T13:21:08.804Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -69,6 +72,15 @@ La prensa atribuye a Amilwa, presentada como miembro de los Verdes, el atentado 
 
 ### Bandas notorias
 
+Los Verdes reúnen bandas independientes bajo la autoridad del [[Gran Capitán Barba Ciprés]], cuyo barco es [[El Gran Mader de Balsa]]. Entre las tripulaciones y capitanes vinculados a la coalición se encuentran:
+
 - La banda de [[Mano Muerta Amilwa]].
 - Los Empecinados del [[Comodoro Mijxael]].
-- La partida de [[Marconte Viento raíz|Marconte "Viento raíz"]]
+- [[Marconte Viento raíz|Capitán Morcote Viento Raíz]] y [[La Banda de Los Viento Raíz]].
+- [[Capitana Pirra]] y los piratas de [[Lavanda Esmeralda]].
+- [[Capitana Amigdalia]] y [[La Banda de las Lanzas]].
+
+## Rumores
+
+- Barba Ciprés y la Churchpol mantendrían acuerdos secretos que provocan tensiones y envidias entre otros piratas.
+- Ciprés tendría un hijo ilegítimo que sería la clave para encontrar un gran tesoro.

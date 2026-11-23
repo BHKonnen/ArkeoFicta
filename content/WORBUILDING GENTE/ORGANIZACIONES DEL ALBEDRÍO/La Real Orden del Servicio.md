@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - Real Orden de Servicio
+  - Real Orden del Servicio
 created: 2026-11-19T11:33:04.157Z
-modified: 2026-11-19T11:37:53.835Z
-published: 2026-11-19T11:37:53.835Z
+modified: 2026-11-23T12:43:23.827Z
+published: 2026-11-23T12:43:23.827Z
 resumen: Categoría de funcionarios no muertos al servicio de las coronas y administraciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
