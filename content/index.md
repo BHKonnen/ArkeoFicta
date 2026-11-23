@@ -9,7 +9,6 @@ Bienvenido a ArkeoFicta. Explora sus personajes, historias y mundos.
 
 ## Explorar la wiki
 
-- [[Indice de la wiki|Índice completo de la wiki]]
 - [[Entradas|Conocimientos de Ellea]]
 - [[Glosario y desambiguaciones|Glosario y terminología]]
 - [[El Mar del Albedrío|El Mar del Albedrío]]
@@ -19,6 +18,6 @@ Bienvenido a ArkeoFicta. Explora sus personajes, historias y mundos.
 
 ## Personajes
 
-Consulta todas las fichas en el [[Indice de la wiki|índice de la wiki]] o busca un nombre con la lupa.
+Usa la lupa para buscar un personaje por su nombre.
 
 - [[Belbin El Libre]]
