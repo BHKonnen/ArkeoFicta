@@ -187,10 +187,12 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         for (const vp of virtualPages) {
           const vpSlug = vp.slug as FullSlug
           const vpRelativePath = (vpSlug + ".md") as FilePath
+          const isUnlistedBase =
+            (vp.data as { basesData?: { unlisted?: boolean } } | undefined)?.basesData?.unlisted === true
           const [tree, vfile] = defaultProcessedContent({
             slug: vpSlug,
             relativePath: vpRelativePath,
-            frontmatter: { title: vp.title, tags: [] },
+            frontmatter: { title: vp.title, tags: [], unlisted: isUnlistedBase },
             ...vp.data,
           })
           if (vpSlug !== "404") {
@@ -281,10 +283,12 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
         for (const vp of virtualPages) {
           const vpSlug = vp.slug as FullSlug
           const vpRelativePath = (vpSlug + ".md") as FilePath
+          const isUnlistedBase =
+            (vp.data as { basesData?: { unlisted?: boolean } } | undefined)?.basesData?.unlisted === true
           const [tree, vfile] = defaultProcessedContent({
             slug: vpSlug,
             relativePath: vpRelativePath,
-            frontmatter: { title: vp.title, tags: [] },
+            frontmatter: { title: vp.title, tags: [], unlisted: isUnlistedBase },
             ...vp.data,
           })
           if (vpSlug !== "404") {
