@@ -1,23 +1,15 @@
 ---
-title: ArkeoFicta
 publish: true
+title: ArkeoFicta
+created: 2026-11-23T15:13:58.824Z
+modified: 2026-11-23T15:13:58.824Z
+published: 2026-11-23T15:13:58.824Z
 ---
 
 _Quaerite et invenietis._
 
-Bienvenido a ArkeoFicta. Explora sus personajes, historias y mundos.
+Bienvenido a ArkeoFicta.
 
-## Explorar la wiki
+## Explorar
 
-- [[Entradas|Conocimientos de Ellea]]
-- [[Glosario y desambiguaciones|Glosario y terminología]]
-- [[El Mar del Albedrío|El Mar del Albedrío]]
-- [[Ciudades del Albedrío|Ciudades del Albedrío]]
-- [[Timeline del Albedrío|Cronología del Albedrío]]
-- [[Iserb|Iserb]]
-
-## Personajes
-
-Usa la lupa para buscar un personaje por su nombre.
-
-- [[Belbin El Libre]]
+[[DATABASES/ARKEOFICTA ENTRADAS.base|Arkeoficta: entradas]]

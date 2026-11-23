@@ -1,0 +1,98 @@
+filters:
+  and:
+    - file.ext == "md"
+    - publish == true
+    - or:
+        - file.hasProperty("topic")
+        - file.hasProperty("character_type")
+        - file.hasProperty("event_type")
+        - file.hasProperty("location_type")
+unlisted: true
+formulas:
+  chronological_order: if(calendar_era && calendar_year, (if(calendar_era == "mitica", 0, if(calendar_era == "primera-era", 1, if(calendar_era == "segunda-era", 2, 3))) * 1000000000) + (calendar_year * 1000) + (if(calendar_month, (calendar_month - 1) * 40, 0)) + if(calendar_day, calendar_day, 0), 9999999999)
+properties:
+  file.name:
+    displayName: Nombre
+  resumen:
+    displayName: Resumen
+  topic:
+    displayName: Tema
+  multi_tag:
+    displayName: Etiquetas
+  character_type:
+    displayName: Tipo de personaje
+  estado_vital:
+    displayName: Estado vital
+  event_type:
+    displayName: Tipo de evento
+  calendar_era:
+    displayName: Era
+  calendar_year:
+    displayName: Año imperial
+  location_type:
+    displayName: Tipo de lugar
+  parent_location:
+    displayName: Ubicación superior
+  campana:
+    displayName: Campaña
+  formula.chronological_order:
+    displayName: Orden cronológico
+views:
+  - type: table
+    name: Entradas
+    filters:
+      and:
+        - file.hasProperty("topic")
+        - not:
+            - file.hasProperty("location_type")
+    order:
+      - file.name
+      - resumen
+      - topic
+      - multi_tag
+      - campana
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Personajes
+    filters:
+      and:
+        - file.hasProperty("character_type")
+    order:
+      - file.name
+      - character_type
+      - estado_vital
+      - campana
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Eventos
+    filters:
+      and:
+        - file.hasProperty("event_type")
+    order:
+      - formula.chronological_order
+      - file.name
+      - calendar_era
+      - calendar_year
+      - event_type
+      - campana
+    sort:
+      - property: formula.chronological_order
+        direction: ASC
+  - type: table
+    name: Lugares
+    filters:
+      and:
+        - file.hasProperty("location_type")
+    order:
+      - file.name
+      - location_type
+      - parent_location
+      - resumen
+      - campana
+    sort:
+      - property: file.name
+        direction: ASC
