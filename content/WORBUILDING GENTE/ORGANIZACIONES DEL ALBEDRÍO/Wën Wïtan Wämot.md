@@ -5,8 +5,8 @@ aliases:
   - WënWïtanWämot
   - Wamot
 created: 2026-09-21T21:31:10.501Z
-modified: 2026-11-18T16:50:34.364Z
-published: 2026-11-18T16:50:34.364Z
+modified: 2026-11-28T11:16:21.424Z
+published: 2026-11-28T11:16:21.424Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -119,7 +119,7 @@ Actualmente existen tres estados observadores:
 
 El Wämot actuaba como mediador oficial en las negociaciones de paz entre la C.C.O. y las guerrillas del [[Segmento de Sangre]]. Sin embargo, la posición neutral del consejo se vio seriamente comprometida tras el robo de material militar de la C.C.O. perpetrado por las princesas brujas gemelas **Boboi y Bosbos**, primas de la princesa Amarantha.
 
-El posterior atentado con _Manglar Homicida_ en el puerto de [[Brotante Prima]], ejecutado por la capitana rebelde **Amilwä**, destruyó la infraestructura del canal y puso fin a las conversaciones.
+El posterior atentado con [[Manglar Homicida]] en el puerto de [[Brotante Prima]], ejecutado por la capitana rebelde **Amilwä**, destruyó la infraestructura del canal y puso fin a las conversaciones.
 
 > [!warning] Declaración de ruptura\
 > Ante la negativa de la C.C.O. de conceder amnistía a las princesas gemelas, el Wämot abandonó de forma unánime las charlas de paz. La presidenta Amarantha Alabastro declaró públicamente:
@@ -136,7 +136,7 @@ La célebre banda de ladronas **[[Las Gamakas]]** fue empleada como distracción
 
 El señor feudal **Reocardo de Mäp** («El Despeñador») rompió abiertamente con el Wämot, argumentando que las intenciones del consejo de expandir sus competencias legislativas violaban la independencia garantizada por los _Acuerdos Anélicos_.
 
-Posteriormente, tras descubrirse que Reocardo financiaba al [[Segmento de Sangre]] y comerciaba con _Manglar Homicida_ y pólvora blanca, el Wämot y el Dodecadrón le revocaron sus títulos y derechos de observador. Así mismo el Wämot ha reconocido de vuelta a las nuevas organizaciones separatistas que se han establecido en Puerto De Mäp a pesar de sus posiciones abiertamente republicanas
+Posteriormente, tras descubrirse que Reocardo financiaba al [[Segmento de Sangre]] y comerciaba con _Manglar Homicida_ y [[Pólvora blanca]], el Wämot y el Dodecadrón le revocaron sus títulos y derechos de observador. Así mismo el Wämot ha reconocido de vuelta a las nuevas organizaciones separatistas que se han establecido en Puerto De Mäp a pesar de sus posiciones abiertamente republicanas
 
 ## Notas de navegación
 

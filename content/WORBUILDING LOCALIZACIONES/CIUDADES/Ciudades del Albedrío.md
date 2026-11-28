@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-13T10:37:12.710Z
-modified: 2026-11-23T14:12:10.787Z
-published: 2026-11-23T14:12:10.787Z
+modified: 2026-11-28T11:52:10.617Z
+published: 2026-11-28T11:52:10.617Z
 resumen: Ciudades del Mar del Albedrío con nota propia en el vault.
 topic: geobiologia
 multi_tag:
@@ -25,7 +25,7 @@ campana:
 | [[Wen-Waipo]]          | [[Princesa Amarantha Alabastro Espiral]]                                                       | Principado integrante del [[Wën Wïtan Wämot]] | Península de las Brujas, en la Alta Costa. Aproximadamente 150.000 habitantes. | Sin precisar. | Ciudad de las Brujas, reconocible por sus menhires de jade. |
 | [[Brotante Prima]]     | Junta Directiva de la [[Compañía Del Canal Occidental (C.C.O.)]]; CEO Duxe D4-V-1D de Sorgente | Compañía-Estado                               | Suroeste del Albedrío, al comienzo del Acueducto. Alrededor de 1 millón de habitantes.                   | Maquinaria pesada, autómatas, herramientas y armamento.        | Puerto clave entre la Bahía de las Repúblicas y el Albedrío, y capital de la C.C.O.                               |
 | [[SORGENTE PRIMA]]     | El Duxe, Axel / A13-X                                                                          | Administración ejecutiva de la C.C.O.         | Extremo occidental del Acueducto. Población sin precisar.                                                | Industria mecanizada, transporte y manufactura.                | Co-capital terrestre e industrial de la C.C.O., levantada alrededor de una catarata que mueve su infraestructura. |
-| [[Pekkia]]             | Autoridad pirata no especificada                                                               | República pirata del Libre Albedrío           | Suroeste del Albedrío, en el estuario del río Pekkia. Entre 300 000 y 450 000 habitantes.                | Piratería, alcohol, contrabando, historias e ideas peligrosas. | Puerto fluvial y centro de la piratería del Mar Extraño.                                                          |
+| [[Pekkia]]             | Autoridad pirata no especificada                                                               | República pirata del Libre Albedrío           | Suroeste del Albedrío, en el estuario del río Pekkia. Unos 200.000 habitantes.                            | Piratería, alcohol, contrabando, historias e ideas peligrosas. | Puerto fluvial y centro de la piratería del Mar Extraño.                                                          |
 
 ## Puertos menores
 

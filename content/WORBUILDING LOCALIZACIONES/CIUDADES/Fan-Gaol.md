@@ -28,18 +28,18 @@ location_type: city
 
 > [!infobox]
 >
-> # Fan-Gaol
+> # `=this.file.name`
 >
 > | Atributo | Detalle |
 > | --- | --- |
-> | **Alias** | Fan-Gaël,La Ciudad de los Túneles |
-> | **Tipo de ciudad** | Archiardunado fortificado |
-> | **Población** | Menos de 100.000 habitantes |
-> | **Región** | Costa de la Península de Iserb |
-> | **Gobernante** | Etna Komneme |
-> | **Tipo de gobierno** | Archiardunado asociado a Iserb |
-> | **Grupos relacionados** | [[Templos Magistratus|Templos Magistratus]],[[WORBUILDING LOCALIZACIONES/PAISES/Iserb.md|Iserb]] |
-> | **PNJ relacionados** | [[Etna Komneme|Etna Komneme]] |
+> | **Alias** | `=this.aliases` |
+> | **Tipo de ciudad** | `=this.city_type` |
+> | **Población** | `=this.population` |
+> | **Región** | `=this.region` |
+> | **Gobernante** | `=this.ruler` |
+> | **Tipo de gobierno** | `=this.government_type` |
+> | **Grupos relacionados** | `=this.related_groups` |
+> | **PNJ relacionados** | `=this.related_characters` |
 
 ## Resumen
 

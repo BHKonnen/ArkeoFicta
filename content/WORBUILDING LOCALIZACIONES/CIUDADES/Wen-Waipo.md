@@ -31,7 +31,7 @@ location_type: city
 > | **Gobierno** | Principado electivo |
 > | **Organización** | [[Wën Wïtan Wämot]] |
 
-# **Wen-Waipo**
+# **`=this.file.name`**
 
 > [!info|bg-c-purple]-
 

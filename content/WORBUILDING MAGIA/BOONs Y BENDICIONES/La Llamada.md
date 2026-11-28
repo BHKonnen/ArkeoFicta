@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - Peregrinación a Iserb
+  - Gran Peregrinación
 created: 2026-02-08T17:05:38.463Z
-modified: 2026-11-18T13:04:58.349Z
-published: 2026-11-18T13:04:58.349Z
+modified: 2026-11-24T10:27:21.346Z
+published: 2026-11-24T10:27:21.346Z
 resumen: Movimiento religioso y experiencia espiritual que conduce a peregrinos de toda Ellea hacia Iserb.
 topic: sociedad
 multi_tag:

@@ -26,18 +26,18 @@ location_type: city
 
 > [!infobox]
 >
-> # Wën-Wareni
+> # `=this.file.name`
 >
 > | Atributo | Detalle |
 > | --- | --- |
-> | **Alias** | Ciudad de los Puentes |
-> | **Tipo de ciudad** | Principado |
-> | **Población** | Aproximadamente 90.000 habitantes |
-> | **Región** | Suroeste del Mar del Albedrío, cañón del río El-oyd |
-> | **Gobernante** | [[PERSONAJES Y PROTAGONISTAS/PERSONAJES DEL ALBEDRÍO/Princesa Olga Oro Oloid.md|Princesa Olga Oro Oloid]] |
-> | **Tipo de gobierno** | Principado de la dinastía Oro Oloid, integrante del [[Wën Wïtan Wämot]] |
-> | **Grupos relacionados** | [[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Wën Wïtan Wämot.md|Wën Wïtan Wämot]] |
-> | **PNJ relacionados** | [[PERSONAJES Y PROTAGONISTAS/PERSONAJES DEL ALBEDRÍO/Princesa Olga Oro Oloid.md|Princesa Olga Oro Oloid]] |
+> | **Alias** | `=this.aliases` |
+> | **Tipo de ciudad** | `=this.city_type` |
+> | **Población** | `=this.population` |
+> | **Región** | `=this.region` |
+> | **Gobernante** | `=this.ruler` |
+> | **Tipo de gobierno** | `=this.government_type` |
+> | **Grupos relacionados** | `=this.related_groups` |
+> | **PNJ relacionados** | `=this.related_characters` |
 
 # Wën-Wareni
 

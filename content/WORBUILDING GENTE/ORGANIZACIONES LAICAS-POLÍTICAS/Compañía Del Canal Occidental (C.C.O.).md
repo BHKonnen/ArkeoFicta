@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - C.C.0
+  - Canal Occidental
 created: 2026-02-08T17:05:38.586Z
-modified: 2026-11-13T16:38:46.811Z
-published: 2026-11-13T16:38:46.811Z
+modified: 2026-11-28T11:01:11.623Z
+published: 2026-11-28T11:01:11.623Z
 resumen: Zaibatsu y compañía-estado que controla La Fuente, las ciudades del entorno de El Acueducto y una parte esencial de su infraestructura.
 topic: sociedad
 multi_tag:
@@ -125,7 +128,7 @@ Durante el año **3033 C.S.**, la C.C.O. se encuentra inmersa en una importante 
 La compañía ha sufrido una serie de ataques contra sus infraestructuras, entre ellos:
 
 1. El secuestro masivo de peregrinos en [[Peralte del Lago]] por parte del [[Segmento de Sangre]].
-2. El ataque contra el puerto de [[Brotante Prima]] mediante _Manglar Homicida_, perpetrado por la capitana verde  **Amilwä**.
+2. El ataque contra el puerto de [[Brotante Prima]] mediante [[Manglar Homicida]], perpetrado por la capitana verde **Amilwä**.
 3. El asalto al taller de **T.A.S.** en [[Sorgente Prima]].
 4. La destrucción de [[Nuevo Puerto]]. Donde tenía importantes inversiones.
 

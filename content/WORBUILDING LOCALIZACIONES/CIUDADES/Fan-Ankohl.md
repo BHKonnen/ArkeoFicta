@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - Fan-Ankol
+  - El Archiardunado de Fan Ankohl
 created: 2026-11-13T11:04:07.225Z
-modified: 2026-11-21T19:38:11.241Z
-published: 2026-11-21T19:38:11.241Z
+modified: 2026-11-28T11:08:00.199Z
+published: 2026-11-28T11:08:00.199Z
 resumen: Archiardunado insular asociado a Iserb y observador del Wämot.
 topic: geobiologia
 multi_tag:
@@ -27,18 +28,18 @@ location_type: city
 
 > [!infobox]
 >
-> # Fan-Ankohl
+> # `=this.file.name`
 >
 > | Atributo | Detalle |
 > | --- | --- |
-> | **Alias** | Fan-Ankol |
-> | **Tipo de ciudad** | Archiardunado insular |
-> | **Población** | Menos de 100.000 habitantes |
-> | **Región** | Archipiélago de cuatro islas del Albedrío |
-> | **Gobernante** | Kanthan Hen-Zansen y el Clan Hen-Zansen |
-> | **Tipo de gobierno** | Archiardunado asociado a [[Iserb]] y observador del [[Wën Wïtan Wämot]] |
-> | **Grupos relacionados** | [[WORBUILDING LOCALIZACIONES/PAISES/Iserb.md|Iserb]],[[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Wën Wïtan Wämot.md|Wën Wïtan Wämot]] |
-> | **PNJ relacionados** | [[Kanthan Hen-Zansen|Kanthan Hen-Zansen]] |
+> | **Alias** | `=this.aliases` |
+> | **Tipo de ciudad** | `=this.city_type` |
+> | **Población** | `=this.population` |
+> | **Región** | `=this.region` |
+> | **Gobernante** | `=this.ruler` |
+> | **Tipo de gobierno** | `=this.government_type` |
+> | **Grupos relacionados** | `=this.related_groups` |
+> | **PNJ relacionados** | `=this.related_characters` |
 
 ## Resumen
 
@@ -58,4 +59,4 @@ Buena parte de las islas es un sistema de paredes y laberintos monumentales. Los
 
 ### Exportaciones
 
-Fan-Ankohl exporta productos alquímicos y remedios sanadores. Su bien más valioso es el **Enbe** o , también llamado **sabia**, un material cuya manufactura y venta están reguladas con extrema cautela por el Archiardún conforme a la [[CHISPA]].
+Fan-Ankohl exporta productos alquímicos y remedios sanadores. Su bien más valioso es el **Enbe**, también llamado **Sabia**, un material cuya manufactura y venta están reguladas con extrema cautela por el Archiardún conforme a la [[CHISPA]]. Consulta su clasificación en [[Materiales, objetos y sustancias prohibidas]].

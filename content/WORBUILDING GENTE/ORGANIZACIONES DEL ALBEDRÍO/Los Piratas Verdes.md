@@ -4,8 +4,8 @@ aliases:
   - Piratas Verdes
   - Los Verdes
 created: 2026-09-21T21:31:12.814Z
-modified: 2026-11-23T13:21:08.804Z
-published: 2026-11-23T13:21:08.804Z
+modified: 2026-11-28T11:01:11.626Z
+published: 2026-11-28T11:01:11.626Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -68,7 +68,7 @@ Los artículos del _Escriba del Peregrino_ describen un conflicto abierto entre 
 
 ### Ataque de Brotante
 
-La prensa atribuye a Amilwa, presentada como miembro de los Verdes, el atentado con _Manglar Homicida_ que dañó el puerto de [[Brotante Prima]] y precipitó el final de las conversaciones de paz entre la C.C.O. y el [[El Segmento de Sangre|Segmento de Sangre]].
+La prensa atribuye a Amilwa, presentada como miembro de los Verdes, el atentado con [[Manglar Homicida]] que dañó el puerto de [[Brotante Prima]] y precipitó el final de las conversaciones de paz entre la C.C.O. y el [[El Segmento de Sangre|Segmento de Sangre]].
 
 ### Bandas notorias
 

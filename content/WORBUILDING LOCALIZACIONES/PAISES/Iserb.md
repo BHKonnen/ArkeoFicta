@@ -4,8 +4,8 @@ aliases:
   - Estado de Iserb
   - El Estado de Iserb
 created: 2026-11-13T10:37:12.457Z
-modified: 2026-11-23T12:55:19.618Z
-published: 2026-11-23T12:55:19.618Z
+modified: 2026-11-28T11:16:20.418Z
+published: 2026-11-28T11:16:20.418Z
 resumen: Estado de Iserb y sus instituciones religiosas y políticas, con sede en la ciudad sagrada de Iserb.
 topic: geobiologia
 multi_tag:
@@ -83,7 +83,7 @@ Un Archiardunado:
 
 El Dodecadrón puede **retirar el reconocimiento a un dirigente de un Archiardunado** si considera que ha violado gravemente las normas del Templo Unificado. En casos extremos puede incluso revocar sus títulos y asumir directamente la administración del territorio.
 
-Un ejemplo reciente fue **[[Reocardo de Mäp]]**, cuyo apoyo al [[Segmento de Sangre]], junto con el comercio de _Manglar Homicida_ y pólvora blanca, provocó la retirada de sus títulos y privilegios por parte del Dodecadrón.
+Un ejemplo reciente fue **[[Reocardo de Mäp]]**, cuyo apoyo al [[Segmento de Sangre]], junto con el comercio de _Manglar Homicida_ y [[Pólvora blanca]], provocó la retirada de sus títulos y privilegios por parte del Dodecadrón.
 
 Uno de los Archiardunados más importantes es **[[Nueva República de Mäp]]**. Su reciente conflicto con Iserb sirve como precedente de los riesgos que supone para el Dodecadrón que un territorio tributario se aleje de su autoridad.
 

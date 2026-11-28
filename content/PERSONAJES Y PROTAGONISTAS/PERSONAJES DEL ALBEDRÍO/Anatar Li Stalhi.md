@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Anatar Li "Stalhi"
 created: 2026-09-21T21:31:32.410Z
-modified: 2026-11-12T13:13:30.012Z
-published: 2026-11-12T13:13:30.012Z
+modified: 2026-11-19T13:54:45.215Z
+published: 2026-11-19T13:54:45.215Z
 character_type: Mayor
 estado_vital: desconocido
 campana:
@@ -21,6 +21,21 @@ related_groups:
 related_events: []
 related_entries: []
 ---
+
+## Ficha de personaje
+
+> [!infobox]
+>
+> # Anatar Li "Stalhi"
+>
+> ![[TEMPLATES/SAVE FOLDER/87315a58-7816-4fea-bbc8-f943c4fccf73.png|240]]
+>
+> ###### Identidad
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Estado vital** | desconocido |
+> | **Tipo** | Mayor |
 
 ### Ficha de personaje
 

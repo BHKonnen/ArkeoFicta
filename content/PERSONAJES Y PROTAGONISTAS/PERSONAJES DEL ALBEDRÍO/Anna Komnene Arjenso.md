@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T21:31:15.223Z
-modified: 2026-10-15T17:36:24.001Z
-published: 2026-10-15T17:36:24.001Z
+modified: 2026-11-19T13:54:45.222Z
+published: 2026-11-19T13:54:45.222Z
 character_type: minor
 estado_vital: desconocido
 campana:
@@ -12,6 +12,21 @@ related_characters:
   - "[[Cigarreto]]"
   - "[[Reineri]]"
 ---
+
+## Ficha de personaje
+
+> [!infobox]
+>
+> # Anna Komnene Arjenso
+>
+> ![[TEMPLATES/SAVE FOLDER/8ef375b7-a5fa-459c-a965-66a7e56aa4aa.jpg|240]]
+>
+> ###### Identidad
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Estado vital** | desconocido |
+> | **Tipo** | minor |
 
 # Anna Komnene Arjenso
 

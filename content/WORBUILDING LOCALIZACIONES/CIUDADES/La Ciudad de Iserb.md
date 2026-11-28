@@ -26,18 +26,18 @@ location_type: city
 
 > [!infobox]
 >
-> # La Ciudad de Iserb
+> # `=this.file.name`
 >
 > | Atributo | Detalle |
 > | --- | --- |
-> | **Alias** | Centro del Universo |
-> | **Tipo de ciudad** | Ciudad fortificada e independiente |
-> | **Población** | Casi 11 millones de habitantes |
-> | **Región** | [[Primordia]], [[El Mar del Albedrío]] |
-> | **Gobernante** | [[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Círculo de La Ciudad de Iserb.md|Círculo de La Ciudad de Iserb]] |
-> | **Tipo de gobierno** | Gobierno civil municipal con autoridad religiosa de [[Iserb]] |
-> | **Grupos relacionados** | [[WORBUILDING GENTE/ORGANIZACIONES DEL ALBEDRÍO/Círculo de La Ciudad de Iserb.md|Círculo de La Ciudad de Iserb]],[[WORBUILDING LOCALIZACIONES/PAISES/Iserb.md|Iserb]] |
-> | **PNJ relacionados** |  |
+> | **Alias** | `=this.aliases` |
+> | **Tipo de ciudad** | `=this.city_type` |
+> | **Población** | `=this.population` |
+> | **Región** | `=this.region` |
+> | **Gobernante** | `=this.ruler` |
+> | **Tipo de gobierno** | `=this.government_type` |
+> | **Grupos relacionados** | `=this.related_groups` |
+> | **PNJ relacionados** | `=this.related_characters` |
 
 # La Ciudad de Iserb
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T21:31:12.207Z
-modified: 2026-11-12T11:37:33.659Z
-published: 2026-11-12T11:37:33.659Z
+modified: 2026-11-28T11:39:27.132Z
+published: 2026-11-28T11:39:27.132Z
 resumen: Organización mencionada en el mapa de relaciones del Mar del Albedrío.
 topic: sociedad
 multi_tag:
@@ -50,7 +50,7 @@ En 3033 C.S., la facción ha vuelto a ocupar un lugar destacado en los acontecim
 
 ## El Príncipe Púrpura
 
-El [[Príncipe Púrpura]] es la nave insignia y el centro de operaciones de la organización. Se trata de una embarcación capáz de acceder a otra "dimensión" concodida como "Las Venas de Ellea" .
+El [[Príncipe Púrpura]] es la nave insignia y el centro de operaciones de la organización. Se trata de una embarcación capaz de acceder a otra dimensión conocida como [[Mnemnoesphera|Las Venas de Ellea]].
 
 Sus integrantes forman una compañía peculiar en la que conviven artistas, criaturas extraordinarias y figuras vinculadas a la corte del barco. La nave también está ligada a la existencia de Maham Dia, una dríada de fuego cuyo _genius loci_ reside en el espíritu de la embarcación.
 

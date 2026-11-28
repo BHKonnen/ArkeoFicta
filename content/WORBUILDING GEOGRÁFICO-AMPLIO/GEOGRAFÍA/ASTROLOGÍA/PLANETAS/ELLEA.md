@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-02-08T17:05:38.754Z
-modified: 2026-11-19T11:45:54.636Z
-published: 2026-11-19T11:45:54.636Z
+modified: 2026-11-24T12:09:33.570Z
+published: 2026-11-24T12:09:33.570Z
+resumen: El planeta habitado de Ellea, sus continentes y sus dos satélites.
 ---
 
 # ELLEA
@@ -24,8 +25,8 @@ Ellea tiene dos satélites: [[Lajteia-Horologe|Lajteia]], cuya presencia marca c
 
 ## Un mundo de centros disputados
 
-La tradición del [[Templo Ecuménico del Camino de Iserb]] presenta Iserb como el Centro del Universo. Esta idea sostiene peregrinaciones, instituciones comunes y rutas de intercambio, pero no convierte a Ellea en un mundo políticamente unificado bajo ningún cocepto, nisiquiera Primordia lo es un lugar donde, Ciudades-estado,repúblicas, principados, archiardunados y comunidades alejadas conservan sus propias memorias, cultos y formas de gobierno.
+La tradición del [[Templo Ecuménico del Camino de Iserb]] presenta Iserb como el Centro del Universo. Esta idea sostiene peregrinaciones, instituciones comunes y rutas de intercambio, pero Ellea no es un mundo políticamente unificado. Ni siquiera Primordia lo es: ciudades-estado, repúblicas, principados, archiardunados y comunidades alejadas conservan sus propias memorias, cultos y formas de gobierno.
 
-Carth es un continente dividido por su propia geografía y su política, el extensísimo Directorio Seleuce, sucesor del Imperio del mismo nombre tras la Guerra de los Harapos controla el norte del continente, mientras al sur  decenas de pequeños reinos, sultanatos, y ciudades libres guerrean y hacen la paz por la región más rica de Ellea.
+Carth está dividido por su geografía y su política. El extensísimo Directorio Seleuce, sucesor del Imperio del mismo nombre tras la Guerra de los Harapos, controla el norte del continente. Al sur, decenas de pequeños reinos, sultanatos y ciudades libres guerrean y hacen la paz por la región más rica de Ellea.
 
-Borealis a veces llamado el continente raro, o el aparatado, vive en un estado de estasis inmovilista en el norte, y casi guerra perpetua en el sur. Es sur de Borealis es una de las regiones con más conflictos, y aún así uno de los centros artísticos y culturalmente influyentes de todo el planeta.
+Borealis, llamado a veces el continente raro o el apartado, vive en un estado de estasis inmovilista en el norte y de guerra casi perpetua en el sur. El sur de Borealis es una de las regiones con más conflictos y, aun así, uno de los centros artística y culturalmente influyentes de todo el planeta.

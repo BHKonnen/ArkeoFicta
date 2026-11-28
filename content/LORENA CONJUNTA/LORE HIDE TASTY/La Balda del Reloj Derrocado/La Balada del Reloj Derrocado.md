@@ -4,7 +4,7 @@ created: 2026-02-08T17:05:39.079Z
 modified: 2026-11-25T16:51:54.500Z
 published: 2026-11-25T16:51:54.500Z
 tags:
-  - "#Handouts"
+  - Handouts
 resumen: Balada enigmática que encadena nueve imágenes y alusiones veladas.
 handout_type: balada
 campana:

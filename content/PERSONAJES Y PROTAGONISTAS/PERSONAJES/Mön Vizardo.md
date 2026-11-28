@@ -1,10 +1,11 @@
 ---
 publish: true
 aliases:
+  - Mön Wizardo
   - Món Vizardo
 created: 2026-02-08T17:05:38.327Z
-modified: 2026-11-13T15:36:08.276Z
-published: 2026-11-13T15:36:08.276Z
+modified: 2026-11-23T11:14:47.771Z
+published: 2026-11-23T11:14:47.771Z
 character_type: minor
 estado_vital: desconocido
 campana:
@@ -15,6 +16,21 @@ related_events: []
 related_entries:
   - "[[MALDICIONES]]"
 ---
+
+## Ficha de personaje
+
+> [!infobox]
+>
+> # Mön Vizardo
+>
+> ![[TEMPLATES/SAVE FOLDER/57b43afa-855e-47a8-9ef9-61e212ea5599.png|240]]
+>
+> ###### Identidad
+>
+> | Atributo | Detalle |
+> | --- | --- |
+> | **Estado vital** | desconocido |
+> | **Tipo** | minor |
 
 # Mön Vizardo
 

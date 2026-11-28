@@ -3,8 +3,8 @@ publish: true
 aliases:
   - El Principio del Final
 created: 2026-02-08T17:05:38.563Z
-modified: 2026-11-23T14:23:01.017Z
-published: 2026-11-23T14:23:01.017Z
+modified: 2026-11-28T11:01:11.620Z
+published: 2026-11-28T11:01:11.620Z
 city_type: Ciudad grande y puerto industrial
 population: Alrededor de 1 millón de habitantes
 region: "[[El Acueducto]], [[El Mar del Albedrío]]"
@@ -50,7 +50,7 @@ _Mapa de Brotante Prima._
 - **Pirámide:** entrada principal de la ciudad, reconocible por su fortificación imperial; incluye una zona militar y alojamientos para visitantes.
 - **Entre Lagos:** barrio residencial.
 - **La Curva:** conjunto de barriadas superpuestas que acoge la sede local del B.I.P.P. y la taberna Curva de Donosura, donde se alojaron los peregrinos.
-- **Puerto-Plaza:** zona portuaria y comercial. El puerto conservaba las huellas del ataque con Manglar Homicida atribuido a Amilwa.
+- **Puerto-Plaza:** zona portuaria y comercial. El puerto conservaba las huellas del ataque con [[Manglar Homicida]] atribuido a Amilwa.
 - **Sede:** emplazamiento relacionado con la C.C.O.; su descripción queda pendiente de completar.
 
 ### Otros lugares de interés
@@ -77,7 +77,7 @@ Ruinas de Wen-Wattan
 
 ## Historia y situación reciente
 
-Las conversaciones de paz entre la C.C.O. y el Segmento de Sangre se celebraban en Brotante cuando un ataque con Manglar Homicida, atribuido a [[Mano Muerta Amilwa]], dañó gravemente el puerto. Los desperfectos afectaron al tránsito de mercancías y peregrinos y las negociaciones llegaron a su fin. Más tarde, un incendio atribuido a los [[Piratas Rojos|Piropiratas]] devastó parte de la ciudad.
+Las conversaciones de paz entre la C.C.O. y el Segmento de Sangre se celebraban en Brotante cuando un ataque con [[Manglar Homicida]], atribuido a [[Mano Muerta Amilwa]], dañó gravemente el puerto. Los desperfectos afectaron al tránsito de mercancías y peregrinos y las negociaciones llegaron a su fin. Más tarde, un incendio atribuido a los [[Piratas Rojos|Piropiratas]] devastó parte de la ciudad.
 
 El [[Artículos del Escriba del Peregrino#Saboteados los acuerdos de paz|Escriba del Peregrino]] recogió el ataque al puerto y sus consecuencias para las conversaciones.
 

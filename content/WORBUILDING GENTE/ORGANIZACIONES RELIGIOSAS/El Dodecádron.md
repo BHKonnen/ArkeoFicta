@@ -4,8 +4,8 @@ aliases:
   - Dodecadrón
   - El Dodecadrón
 created: 2026-09-21T19:16:48.638Z
-modified: 2026-11-23T13:07:06.052Z
-published: 2026-11-23T13:07:06.052Z
+modified: 2026-11-28T11:16:21.073Z
+published: 2026-11-28T11:16:21.073Z
 resumen: Consejo de doce asientos religiosos que gestiona y protege el Camino de Iserb.
 topic: sociedad
 multi_tag:
@@ -71,7 +71,7 @@ El [[Dodecadrón]] puede **retirar su reconocimiento a un dirigente de un Archia
 
 En casos especialmente graves, el [[Dodecadrón]] puede retirar títulos y privilegios y asumir temporalmente una mayor intervención sobre el territorio.
 
-Un precedente es el de [[Reocardo de Mäp]]: tras descubrirse su financiación del [[Segmento de Sangre]] y su implicación en el comercio de Manglar Homicida y pólvora blanca, el Dodecadrón y otras autoridades vinculadas a Iserb revocaron sus títulos y privilegios.
+Un precedente es el de [[Reocardo de Mäp]]: tras descubrirse su financiación del [[Segmento de Sangre]] y su implicación en el comercio de Manglar Homicida y [[Pólvora blanca]], el Dodecadrón y otras autoridades vinculadas a Iserb revocaron sus títulos y privilegios.
 
 ## Relación con [[Iserb]]
 

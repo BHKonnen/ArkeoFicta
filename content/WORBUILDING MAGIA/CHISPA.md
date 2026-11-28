@@ -3,8 +3,8 @@ publish: true
 aliases:
   - CHISPA..
 created: 2026-11-06T17:25:45.885Z
-modified: 2026-11-13T16:54:04.237Z
-published: 2026-11-13T16:54:04.237Z
+modified: 2026-11-28T11:08:00.189Z
+published: 2026-11-28T11:08:00.189Z
 topic: magia
 multi_tag:
   - otros
@@ -87,6 +87,8 @@ Los Estados deberán identificar los materiales y objetos de riesgo. La CHISPA d
 - **prohibidos**, cuando su fabricación, tenencia o uso produce un riesgo inadmisible;
 - **limitados**, cuando solo pueden poseerse, transportarse o emplearse bajo custodia y registro;
 - **de uso regulado**, cuando su comercio y aplicación requieren autorización, trazabilidad y medidas de seguridad.
+
+El catálogo de materiales conocidos y su clasificación se recoge en [[Materiales, objetos y sustancias prohibidas]].
 
 ### Sección VIII. Enseñanza de la magia
 
